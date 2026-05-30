@@ -1,0 +1,19 @@
+{
+  "datasetId": "community_municipalities",
+  "pipelineVersion": "1.0.0",
+  "generatedAt": "2026-05-30T23:29:05.851524+00:00",
+  "sourceFile": "ign_madrid_municipalities.geojson",
+  "featureCount": 179,
+  "expectedCount": 179,
+  "projectionWeb": "EPSG:4326",
+  "projectionMetric": "EPSG:25830",
+  "totalAreaKm2": 8019.6,
+  "areaMin": 5.34,
+  "areaMax": 604.01,
+  "outputFiles": [
+    "data/community/boundaries/municipalities.geojson",
+    "data/community/boundaries/municipalities_simplified.geojson",
+    "data/community/attributes/identity.json",
+    "data/community/derived/neighbours.json"
+  ]
+}

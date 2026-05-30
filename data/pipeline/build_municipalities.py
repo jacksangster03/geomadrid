@@ -227,9 +227,12 @@ def main():
     gdf = gdf.to_crs(epsg=EPSG_WEB)
 
     # 10. Compute centroids, label points, bboxes
+    # Centroids must be computed in metric CRS (already have gdf_metric)
     print("Computing centroids, label points, bboxes...")
-    centroids = gdf.geometry.centroid
-    label_pts = gdf.geometry.representative_point()
+    centroids_metric = gdf_metric.geometry.centroid.to_crs(epsg=EPSG_WEB)
+    label_pts_metric = gdf_metric.geometry.representative_point().to_crs(epsg=EPSG_WEB)
+    centroids = centroids_metric
+    label_pts = label_pts_metric
     bounds = gdf.geometry.bounds
 
     gdf["centroid_lat"] = centroids.y.round(6)

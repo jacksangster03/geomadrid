@@ -64,21 +64,32 @@ npm install
 
 ### Data pipeline (Phase 0)
 
-Before running the app you need to generate the official boundary data.
+The boundary data is sourced from the **IGN INSPIRE WFS** — the official Instituto Geográfico Nacional Web Feature Service. This is the same authoritative source as the CNIG download portal, served via the public INSPIRE endpoint. Licence: CC BY 4.0 ign.es.
 
-1. Download the official CNIG municipal boundary dataset:
-   - Go to [centrodedescargas.cnig.es](https://centrodedescargas.cnig.es)
-   - Search for "Líneas de Límites Municipales" (series MTN25)
-   - Download the national Shapefile package
-   - Extract to `data/raw/`
-
-2. Run the pipeline:
+#### Option A: Programmatic download (recommended)
 
 ```bash
-cd data/pipeline
-pip install -r requirements.txt
-python build_municipalities.py
+# From the repo root
+python3 -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r data/pipeline/requirements.txt requests
+
+# Download 179 official municipality boundaries from IGN WFS
+python data/pipeline/download_wfs.py
+
+# Process, validate and export
+python data/pipeline/build_municipalities.py
 ```
+
+`download_wfs.py` pages through all ~8,294 Spanish administrative units in the IGN WFS, collecting only those whose national code starts with `34132828` (province 28 = Community of Madrid). It produces `data/raw/ign_madrid_municipalities.geojson` with flat `NATCODE`/`NAMEUNIT` fields ready for the pipeline.
+
+#### Option B: Manual CNIG download
+
+1. Go to [centrodedescargas.cnig.es](https://centrodedescargas.cnig.es)
+2. Search for "Líneas de Límites Municipales"
+3. Download the national Shapefile or GeoPackage
+4. Extract the contents **directly into** `data/raw/` (files must be at the root, not in a subdirectory)
+5. Run `python data/pipeline/build_municipalities.py`
 
 The pipeline will:
 - Filter to province code 28 (Comunidad de Madrid)
@@ -87,11 +98,16 @@ The pipeline will:
 - Compute area, centroid, label point, bounding box, neighbours
 - Export to `public/data/community/`
 
-3. Verify output:
+#### What gets committed
 
-```bash
-python validate.py
-```
+| File | Committed? | Reason |
+|------|-----------|--------|
+| `public/data/community/boundaries/*.geojson` | No (gitignored) | Large files, regenerate via pipeline |
+| `public/data/community/attributes/identity.json` | Yes (89 KB) | Stable, small |
+| `public/data/community/derived/neighbours.json` | Yes (10 KB) | Stable, small |
+| `public/data/community/attributes/classifications.json` | Yes (scaffold) | Scaffold only |
+| `public/data/community/metadata/data_version.json` | Yes (1 KB) | Provenance record |
+| `data/raw/` | No (gitignored) | Official source files, do not commit |
 
 ### Run the app
 

@@ -1,0 +1,4298 @@
+{
+  "28165": {
+    "geoUnitId": "28165",
+    "datasetId": "community_municipalities",
+    "code": "28165",
+    "nameOfficial": "Valdilecha",
+    "nameDisplay": "Valdilecha",
+    "nameAscii": "Valdilecha",
+    "slug": "valdilecha",
+    "areaKm2": 42.5513,
+    "centroid": {
+      "lat": 40.29512,
+      "lng": -3.303618
+    },
+    "labelPoint": {
+      "lat": 40.298232,
+      "lng": -3.300256
+    },
+    "bbox": [
+      -3.348381,
+      40.260265,
+      -3.252134,
+      40.332714
+    ]
+  },
+  "28112": {
+    "geoUnitId": "28112",
+    "datasetId": "community_municipalities",
+    "code": "28112",
+    "nameOfficial": "Pinilla del Valle",
+    "nameDisplay": "Pinilla del Valle",
+    "nameAscii": "Pinilla del Valle",
+    "slug": "pinilla-del-valle",
+    "areaKm2": 25.4208,
+    "centroid": {
+      "lat": 40.938043,
+      "lng": -3.83125
+    },
+    "labelPoint": {
+      "lat": 40.935319,
+      "lng": -3.829267
+    },
+    "bbox": [
+      -3.880832,
+      40.88821,
+      -3.785147,
+      40.982347
+    ]
+  },
+  "28113": {
+    "geoUnitId": "28113",
+    "datasetId": "community_municipalities",
+    "code": "28113",
+    "nameOfficial": "Pinto",
+    "nameDisplay": "Pinto",
+    "nameAscii": "Pinto",
+    "slug": "pinto",
+    "areaKm2": 61.9796,
+    "centroid": {
+      "lat": 40.246915,
+      "lng": -3.685604
+    },
+    "labelPoint": {
+      "lat": 40.24592,
+      "lng": -3.686531
+    },
+    "bbox": [
+      -3.741267,
+      40.19893,
+      -3.622528,
+      40.292818
+    ]
+  },
+  "28114": {
+    "geoUnitId": "28114",
+    "datasetId": "community_municipalities",
+    "code": "28114",
+    "nameOfficial": "Piñuécar-Gandullas",
+    "nameDisplay": "Piñuécar-Gandullas",
+    "nameAscii": "Pinuecar-Gandullas",
+    "slug": "pinuecar-gandullas",
+    "areaKm2": 18.2369,
+    "centroid": {
+      "lat": 41.029403,
+      "lng": -3.599064
+    },
+    "labelPoint": {
+      "lat": 41.034987,
+      "lng": -3.599337
+    },
+    "bbox": [
+      -3.622367,
+      40.990151,
+      -3.573028,
+      41.079899
+    ]
+  },
+  "28115": {
+    "geoUnitId": "28115",
+    "datasetId": "community_municipalities",
+    "code": "28115",
+    "nameOfficial": "Pozuelo de Alarcón",
+    "nameDisplay": "Pozuelo de Alarcón",
+    "nameAscii": "Pozuelo de Alarcon",
+    "slug": "pozuelo-de-alarcon",
+    "areaKm2": 43.064,
+    "centroid": {
+      "lat": 40.428775,
+      "lng": -3.813828
+    },
+    "labelPoint": {
+      "lat": 40.428948,
+      "lng": -3.81206
+    },
+    "bbox": [
+      -3.863129,
+      40.392025,
+      -3.770839,
+      40.466353
+    ]
+  },
+  "28116": {
+    "geoUnitId": "28116",
+    "datasetId": "community_municipalities",
+    "code": "28116",
+    "nameOfficial": "Pozuelo del Rey",
+    "nameDisplay": "Pozuelo del Rey",
+    "nameAscii": "Pozuelo del Rey",
+    "slug": "pozuelo-del-rey",
+    "areaKm2": 30.912,
+    "centroid": {
+      "lat": 40.361384,
+      "lng": -3.308929
+    },
+    "labelPoint": {
+      "lat": 40.363964,
+      "lng": -3.313814
+    },
+    "bbox": [
+      -3.356032,
+      40.328616,
+      -3.270427,
+      40.400608
+    ]
+  },
+  "28117": {
+    "geoUnitId": "28117",
+    "datasetId": "community_municipalities",
+    "code": "28117",
+    "nameOfficial": "Prádena del Rincón",
+    "nameDisplay": "Prádena del Rincón",
+    "nameAscii": "Pradena del Rincon",
+    "slug": "pradena-del-rincon",
+    "areaKm2": 22.5013,
+    "centroid": {
+      "lat": 41.03972,
+      "lng": -3.50973
+    },
+    "labelPoint": {
+      "lat": 41.03923,
+      "lng": -3.516018
+    },
+    "bbox": [
+      -3.559426,
+      41.012554,
+      -3.465273,
+      41.065916
+    ]
+  },
+  "28118": {
+    "geoUnitId": "28118",
+    "datasetId": "community_municipalities",
+    "code": "28118",
+    "nameOfficial": "Puebla de la Sierra",
+    "nameDisplay": "Puebla de la Sierra",
+    "nameAscii": "Puebla de la Sierra",
+    "slug": "puebla-de-la-sierra",
+    "areaKm2": 56.6675,
+    "centroid": {
+      "lat": 41.003736,
+      "lng": -3.451938
+    },
+    "labelPoint": {
+      "lat": 41.006366,
+      "lng": -3.44548
+    },
+    "bbox": [
+      -3.496267,
+      40.962787,
+      -3.39445,
+      41.05005
+    ]
+  },
+  "28119": {
+    "geoUnitId": "28119",
+    "datasetId": "community_municipalities",
+    "code": "28119",
+    "nameOfficial": "Quijorna",
+    "nameDisplay": "Quijorna",
+    "nameAscii": "Quijorna",
+    "slug": "quijorna",
+    "areaKm2": 25.6226,
+    "centroid": {
+      "lat": 40.418459,
+      "lng": -4.0607
+    },
+    "labelPoint": {
+      "lat": 40.418436,
+      "lng": -4.058741
+    },
+    "bbox": [
+      -4.113022,
+      40.388142,
+      -4.026023,
+      40.448702
+    ]
+  },
+  "28120": {
+    "geoUnitId": "28120",
+    "datasetId": "community_municipalities",
+    "code": "28120",
+    "nameOfficial": "Rascafría",
+    "nameDisplay": "Rascafría",
+    "nameAscii": "Rascafria",
+    "slug": "rascafria",
+    "areaKm2": 149.2157,
+    "centroid": {
+      "lat": 40.863975,
+      "lng": -3.895596
+    },
+    "labelPoint": {
+      "lat": 40.873107,
+      "lng": -3.889996
+    },
+    "bbox": [
+      -3.979959,
+      40.787418,
+      -3.798172,
+      40.958833
+    ]
+  },
+  "28121": {
+    "geoUnitId": "28121",
+    "datasetId": "community_municipalities",
+    "code": "28121",
+    "nameOfficial": "Redueña",
+    "nameDisplay": "Redueña",
+    "nameAscii": "Reduena",
+    "slug": "reduena",
+    "areaKm2": 13.0331,
+    "centroid": {
+      "lat": 40.816347,
+      "lng": -3.594079
+    },
+    "labelPoint": {
+      "lat": 40.816642,
+      "lng": -3.594073
+    },
+    "bbox": [
+      -3.617817,
+      40.789448,
+      -3.572689,
+      40.842456
+    ]
+  },
+  "28122": {
+    "geoUnitId": "28122",
+    "datasetId": "community_municipalities",
+    "code": "28122",
+    "nameOfficial": "Ribatejada",
+    "nameDisplay": "Ribatejada",
+    "nameAscii": "Ribatejada",
+    "slug": "ribatejada",
+    "areaKm2": 32.1537,
+    "centroid": {
+      "lat": 40.66279,
+      "lng": -3.411585
+    },
+    "labelPoint": {
+      "lat": 40.661358,
+      "lng": -3.411742
+    },
+    "bbox": [
+      -3.48268,
+      40.630471,
+      -3.36232,
+      40.692458
+    ]
+  },
+  "28123": {
+    "geoUnitId": "28123",
+    "datasetId": "community_municipalities",
+    "code": "28123",
+    "nameOfficial": "Rivas-Vaciamadrid",
+    "nameDisplay": "Rivas-Vaciamadrid",
+    "nameAscii": "Rivas-Vaciamadrid",
+    "slug": "rivas-vaciamadrid",
+    "areaKm2": 67.8832,
+    "centroid": {
+      "lat": 40.339876,
+      "lng": -3.528616
+    },
+    "labelPoint": {
+      "lat": 40.349124,
+      "lng": -3.518853
+    },
+    "bbox": [
+      -3.585074,
+      40.28712,
+      -3.469969,
+      40.411039
+    ]
+  },
+  "28124": {
+    "geoUnitId": "28124",
+    "datasetId": "community_municipalities",
+    "code": "28124",
+    "nameOfficial": "Robledillo de la Jara",
+    "nameDisplay": "Robledillo de la Jara",
+    "nameAscii": "Robledillo de la Jara",
+    "slug": "robledillo-de-la-jara",
+    "areaKm2": 21.0161,
+    "centroid": {
+      "lat": 40.948494,
+      "lng": -3.5205
+    },
+    "labelPoint": {
+      "lat": 40.949865,
+      "lng": -3.527603
+    },
+    "bbox": [
+      -3.565502,
+      40.921244,
+      -3.484217,
+      40.978375
+    ]
+  },
+  "28125": {
+    "geoUnitId": "28125",
+    "datasetId": "community_municipalities",
+    "code": "28125",
+    "nameOfficial": "Robledo de Chavela",
+    "nameDisplay": "Robledo de Chavela",
+    "nameAscii": "Robledo de Chavela",
+    "slug": "robledo-de-chavela",
+    "areaKm2": 94.1804,
+    "centroid": {
+      "lat": 40.480345,
+      "lng": -4.242074
+    },
+    "labelPoint": {
+      "lat": 40.482203,
+      "lng": -4.250188
+    },
+    "bbox": [
+      -4.341254,
+      40.405302,
+      -4.132346,
+      40.559025
+    ]
+  },
+  "28126": {
+    "geoUnitId": "28126",
+    "datasetId": "community_municipalities",
+    "code": "28126",
+    "nameOfficial": "Robregordo",
+    "nameDisplay": "Robregordo",
+    "nameAscii": "Robregordo",
+    "slug": "robregordo",
+    "areaKm2": 18.342,
+    "centroid": {
+      "lat": 41.122599,
+      "lng": -3.604838
+    },
+    "labelPoint": {
+      "lat": 41.123716,
+      "lng": -3.614521
+    },
+    "bbox": [
+      -3.64502,
+      41.095282,
+      -3.566006,
+      41.152051
+    ]
+  },
+  "28127": {
+    "geoUnitId": "28127",
+    "datasetId": "community_municipalities",
+    "code": "28127",
+    "nameOfficial": "Las Rozas de Madrid",
+    "nameDisplay": "Las Rozas de Madrid",
+    "nameAscii": "Las Rozas de Madrid",
+    "slug": "las-rozas-de-madrid",
+    "areaKm2": 58.3049,
+    "centroid": {
+      "lat": 40.521801,
+      "lng": -3.891982
+    },
+    "labelPoint": {
+      "lat": 40.524827,
+      "lng": -3.896719
+    },
+    "bbox": [
+      -3.949782,
+      40.475123,
+      -3.833173,
+      40.574462
+    ]
+  },
+  "28128": {
+    "geoUnitId": "28128",
+    "datasetId": "community_municipalities",
+    "code": "28128",
+    "nameOfficial": "Rozas de Puerto Real",
+    "nameDisplay": "Rozas de Puerto Real",
+    "nameAscii": "Rozas de Puerto Real",
+    "slug": "rozas-de-puerto-real",
+    "areaKm2": 29.5355,
+    "centroid": {
+      "lat": 40.302701,
+      "lng": -4.515325
+    },
+    "labelPoint": {
+      "lat": 40.305528,
+      "lng": -4.504445
+    },
+    "bbox": [
+      -4.556091,
+      40.266141,
+      -4.466192,
+      40.344873
+    ]
+  },
+  "28129": {
+    "geoUnitId": "28129",
+    "datasetId": "community_municipalities",
+    "code": "28129",
+    "nameOfficial": "San Agustín del Guadalix",
+    "nameDisplay": "San Agustín del Guadalix",
+    "nameAscii": "San Agustin del Guadalix",
+    "slug": "san-agustin-del-guadalix",
+    "areaKm2": 38.2429,
+    "centroid": {
+      "lat": 40.686007,
+      "lng": -3.63213
+    },
+    "labelPoint": {
+      "lat": 40.682726,
+      "lng": -3.626502
+    },
+    "bbox": [
+      -3.680454,
+      40.638816,
+      -3.591791,
+      40.726108
+    ]
+  },
+  "28130": {
+    "geoUnitId": "28130",
+    "datasetId": "community_municipalities",
+    "code": "28130",
+    "nameOfficial": "San Fernando de Henares",
+    "nameDisplay": "San Fernando de Henares",
+    "nameAscii": "San Fernando de Henares",
+    "slug": "san-fernando-de-henares",
+    "areaKm2": 38.8414,
+    "centroid": {
+      "lat": 40.436113,
+      "lng": -3.484864
+    },
+    "labelPoint": {
+      "lat": 40.439798,
+      "lng": -3.50971
+    },
+    "bbox": [
+      -3.538004,
+      40.406533,
+      -3.410634,
+      40.472898
+    ]
+  },
+  "28131": {
+    "geoUnitId": "28131",
+    "datasetId": "community_municipalities",
+    "code": "28131",
+    "nameOfficial": "San Lorenzo de El Escorial",
+    "nameDisplay": "San Lorenzo de El Escorial",
+    "nameAscii": "San Lorenzo de El Escorial",
+    "slug": "san-lorenzo-de-el-escorial",
+    "areaKm2": 56.3647,
+    "centroid": {
+      "lat": 40.618725,
+      "lng": -4.130394
+    },
+    "labelPoint": {
+      "lat": 40.60915,
+      "lng": -4.142501
+    },
+    "bbox": [
+      -4.198768,
+      40.562484,
+      -4.031484,
+      40.655229
+    ]
+  },
+  "28132": {
+    "geoUnitId": "28132",
+    "datasetId": "community_municipalities",
+    "code": "28132",
+    "nameOfficial": "San Martín de la Vega",
+    "nameDisplay": "San Martín de la Vega",
+    "nameAscii": "San Martin de la Vega",
+    "slug": "san-martin-de-la-vega",
+    "areaKm2": 105.0902,
+    "centroid": {
+      "lat": 40.243131,
+      "lng": -3.561633
+    },
+    "labelPoint": {
+      "lat": 40.24336,
+      "lng": -3.569481
+    },
+    "bbox": [
+      -3.643682,
+      40.189637,
+      -3.48268,
+      40.297037
+    ]
+  },
+  "28133": {
+    "geoUnitId": "28133",
+    "datasetId": "community_municipalities",
+    "code": "28133",
+    "nameOfficial": "San Martín de Valdeiglesias",
+    "nameDisplay": "San Martín de Valdeiglesias",
+    "nameAscii": "San Martin de Valdeiglesias",
+    "slug": "san-martin-de-valdeiglesias",
+    "areaKm2": 116.4132,
+    "centroid": {
+      "lat": 40.361917,
+      "lng": -4.365812
+    },
+    "labelPoint": {
+      "lat": 40.360242,
+      "lng": -4.393125
+    },
+    "bbox": [
+      -4.461321,
+      40.308621,
+      -4.23641,
+      40.411889
+    ]
+  },
+  "28134": {
+    "geoUnitId": "28134",
+    "datasetId": "community_municipalities",
+    "code": "28134",
+    "nameOfficial": "San Sebastián de los Reyes",
+    "nameDisplay": "San Sebastián de los Reyes",
+    "nameAscii": "San Sebastian de los Reyes",
+    "slug": "san-sebastian-de-los-reyes",
+    "areaKm2": 59.2088,
+    "centroid": {
+      "lat": 40.575083,
+      "lng": -3.599623
+    },
+    "labelPoint": {
+      "lat": 40.581612,
+      "lng": -3.576223
+    },
+    "bbox": [
+      -3.674143,
+      40.53225,
+      -3.537545,
+      40.631074
+    ]
+  },
+  "28135": {
+    "geoUnitId": "28135",
+    "datasetId": "community_municipalities",
+    "code": "28135",
+    "nameOfficial": "Santa María de la Alameda",
+    "nameDisplay": "Santa María de la Alameda",
+    "nameAscii": "Santa Maria de la Alameda",
+    "slug": "santa-maria-de-la-alameda",
+    "areaKm2": 75.6976,
+    "centroid": {
+      "lat": 40.594721,
+      "lng": -4.245301
+    },
+    "labelPoint": {
+      "lat": 40.580438,
+      "lng": -4.239767
+    },
+    "bbox": [
+      -4.324122,
+      40.529566,
+      -4.152052,
+      40.681221
+    ]
+  },
+  "28136": {
+    "geoUnitId": "28136",
+    "datasetId": "community_municipalities",
+    "code": "28136",
+    "nameOfficial": "Santorcaz",
+    "nameDisplay": "Santorcaz",
+    "nameAscii": "Santorcaz",
+    "slug": "santorcaz",
+    "areaKm2": 28.2216,
+    "centroid": {
+      "lat": 40.47144,
+      "lng": -3.223422
+    },
+    "labelPoint": {
+      "lat": 40.469517,
+      "lng": -3.226398
+    },
+    "bbox": [
+      -3.259338,
+      40.434431,
+      -3.195328,
+      40.504677
+    ]
+  },
+  "28137": {
+    "geoUnitId": "28137",
+    "datasetId": "community_municipalities",
+    "code": "28137",
+    "nameOfficial": "Los Santos de la Humosa",
+    "nameDisplay": "Los Santos de la Humosa",
+    "nameAscii": "Los Santos de la Humosa",
+    "slug": "los-santos-de-la-humosa",
+    "areaKm2": 34.8217,
+    "centroid": {
+      "lat": 40.512778,
+      "lng": -3.25552
+    },
+    "labelPoint": {
+      "lat": 40.514186,
+      "lng": -3.24923
+    },
+    "bbox": [
+      -3.308817,
+      40.483957,
+      -3.198814,
+      40.544316
+    ]
+  },
+  "28138": {
+    "geoUnitId": "28138",
+    "datasetId": "community_municipalities",
+    "code": "28138",
+    "nameOfficial": "La Serna del Monte",
+    "nameDisplay": "La Serna del Monte",
+    "nameAscii": "La Serna del Monte",
+    "slug": "la-serna-del-monte",
+    "areaKm2": 5.5168,
+    "centroid": {
+      "lat": 41.037375,
+      "lng": -3.622307
+    },
+    "labelPoint": {
+      "lat": 41.041862,
+      "lng": -3.622439
+    },
+    "bbox": [
+      -3.637234,
+      41.012974,
+      -3.60832,
+      41.070856
+    ]
+  },
+  "28140": {
+    "geoUnitId": "28140",
+    "datasetId": "community_municipalities",
+    "code": "28140",
+    "nameOfficial": "Serranillos del Valle",
+    "nameDisplay": "Serranillos del Valle",
+    "nameAscii": "Serranillos del Valle",
+    "slug": "serranillos-del-valle",
+    "areaKm2": 13.2798,
+    "centroid": {
+      "lat": 40.207133,
+      "lng": -3.894097
+    },
+    "labelPoint": {
+      "lat": 40.211717,
+      "lng": -3.882111
+    },
+    "bbox": [
+      -3.951823,
+      40.188671,
+      -3.865341,
+      40.234727
+    ]
+  },
+  "28141": {
+    "geoUnitId": "28141",
+    "datasetId": "community_municipalities",
+    "code": "28141",
+    "nameOfficial": "Sevilla la Nueva",
+    "nameDisplay": "Sevilla la Nueva",
+    "nameAscii": "Sevilla la Nueva",
+    "slug": "sevilla-la-nueva",
+    "areaKm2": 24.7326,
+    "centroid": {
+      "lat": 40.353885,
+      "lng": -4.038608
+    },
+    "labelPoint": {
+      "lat": 40.356711,
+      "lng": -4.039839
+    },
+    "bbox": [
+      -4.076669,
+      40.332598,
+      -3.998095,
+      40.38109
+    ]
+  },
+  "28143": {
+    "geoUnitId": "28143",
+    "datasetId": "community_municipalities",
+    "code": "28143",
+    "nameOfficial": "Somosierra",
+    "nameDisplay": "Somosierra",
+    "nameAscii": "Somosierra",
+    "slug": "somosierra",
+    "areaKm2": 20.4026,
+    "centroid": {
+      "lat": 41.14161,
+      "lng": -3.568581
+    },
+    "labelPoint": {
+      "lat": 41.139856,
+      "lng": -3.569663
+    },
+    "bbox": [
+      -3.613702,
+      41.113893,
+      -3.536705,
+      41.165845
+    ]
+  },
+  "28169": {
+    "geoUnitId": "28169",
+    "datasetId": "community_municipalities",
+    "code": "28169",
+    "nameOfficial": "Venturada",
+    "nameDisplay": "Venturada",
+    "nameAscii": "Venturada",
+    "slug": "venturada",
+    "areaKm2": 10.2231,
+    "centroid": {
+      "lat": 40.797235,
+      "lng": -3.622334
+    },
+    "labelPoint": {
+      "lat": 40.797572,
+      "lng": -3.621258
+    },
+    "bbox": [
+      -3.650973,
+      40.781975,
+      -3.593487,
+      40.812533
+    ]
+  },
+  "28144": {
+    "geoUnitId": "28144",
+    "datasetId": "community_municipalities",
+    "code": "28144",
+    "nameOfficial": "Soto del Real",
+    "nameDisplay": "Soto del Real",
+    "nameAscii": "Soto del Real",
+    "slug": "soto-del-real",
+    "areaKm2": 42.833,
+    "centroid": {
+      "lat": 40.747681,
+      "lng": -3.788201
+    },
+    "labelPoint": {
+      "lat": 40.75935,
+      "lng": -3.790474
+    },
+    "bbox": [
+      -3.838389,
+      40.704346,
+      -3.732818,
+      40.813553
+    ]
+  },
+  "28145": {
+    "geoUnitId": "28145",
+    "datasetId": "community_municipalities",
+    "code": "28145",
+    "nameOfficial": "Talamanca de Jarama",
+    "nameDisplay": "Talamanca de Jarama",
+    "nameAscii": "Talamanca de Jarama",
+    "slug": "talamanca-de-jarama",
+    "areaKm2": 38.4819,
+    "centroid": {
+      "lat": 40.737187,
+      "lng": -3.491353
+    },
+    "labelPoint": {
+      "lat": 40.739646,
+      "lng": -3.494741
+    },
+    "bbox": [
+      -3.543967,
+      40.689936,
+      -3.434359,
+      40.78933
+    ]
+  },
+  "28146": {
+    "geoUnitId": "28146",
+    "datasetId": "community_municipalities",
+    "code": "28146",
+    "nameOfficial": "Tielmes",
+    "nameDisplay": "Tielmes",
+    "nameAscii": "Tielmes",
+    "slug": "tielmes",
+    "areaKm2": 26.5808,
+    "centroid": {
+      "lat": 40.233271,
+      "lng": -3.302083
+    },
+    "labelPoint": {
+      "lat": 40.227464,
+      "lng": -3.298802
+    },
+    "bbox": [
+      -3.336845,
+      40.190529,
+      -3.270434,
+      40.264221
+    ]
+  },
+  "28147": {
+    "geoUnitId": "28147",
+    "datasetId": "community_municipalities",
+    "code": "28147",
+    "nameOfficial": "Titulcia",
+    "nameDisplay": "Titulcia",
+    "nameAscii": "Titulcia",
+    "slug": "titulcia",
+    "areaKm2": 10.1184,
+    "centroid": {
+      "lat": 40.145927,
+      "lng": -3.560767
+    },
+    "labelPoint": {
+      "lat": 40.146438,
+      "lng": -3.558315
+    },
+    "bbox": [
+      -3.583895,
+      40.121652,
+      -3.535579,
+      40.171285
+    ]
+  },
+  "28148": {
+    "geoUnitId": "28148",
+    "datasetId": "community_municipalities",
+    "code": "28148",
+    "nameOfficial": "Torrejón de Ardoz",
+    "nameDisplay": "Torrejón de Ardoz",
+    "nameAscii": "Torrejon de Ardoz",
+    "slug": "torrejon-de-ardoz",
+    "areaKm2": 32.3696,
+    "centroid": {
+      "lat": 40.470033,
+      "lng": -3.46049
+    },
+    "labelPoint": {
+      "lat": 40.470574,
+      "lng": -3.46304
+    },
+    "bbox": [
+      -3.499503,
+      40.430534,
+      -3.426009,
+      40.510915
+    ]
+  },
+  "28149": {
+    "geoUnitId": "28149",
+    "datasetId": "community_municipalities",
+    "code": "28149",
+    "nameOfficial": "Torrejón de la Calzada",
+    "nameDisplay": "Torrejón de la Calzada",
+    "nameAscii": "Torrejon de la Calzada",
+    "slug": "torrejon-de-la-calzada",
+    "areaKm2": 8.9671,
+    "centroid": {
+      "lat": 40.203136,
+      "lng": -3.798484
+    },
+    "labelPoint": {
+      "lat": 40.199196,
+      "lng": -3.798348
+    },
+    "bbox": [
+      -3.8211,
+      40.1754,
+      -3.778114,
+      40.222866
+    ]
+  },
+  "28150": {
+    "geoUnitId": "28150",
+    "datasetId": "community_municipalities",
+    "code": "28150",
+    "nameOfficial": "Torrejón de Velasco",
+    "nameDisplay": "Torrejón de Velasco",
+    "nameAscii": "Torrejon de Velasco",
+    "slug": "torrejon-de-velasco",
+    "areaKm2": 52.1619,
+    "centroid": {
+      "lat": 40.174585,
+      "lng": -3.747425
+    },
+    "labelPoint": {
+      "lat": 40.171987,
+      "lng": -3.750679
+    },
+    "bbox": [
+      -3.800038,
+      40.132164,
+      -3.699409,
+      40.211636
+    ]
+  },
+  "28151": {
+    "geoUnitId": "28151",
+    "datasetId": "community_municipalities",
+    "code": "28151",
+    "nameOfficial": "Torrelaguna",
+    "nameDisplay": "Torrelaguna",
+    "nameAscii": "Torrelaguna",
+    "slug": "torrelaguna",
+    "areaKm2": 43.0563,
+    "centroid": {
+      "lat": 40.82272,
+      "lng": -3.54729
+    },
+    "labelPoint": {
+      "lat": 40.82633,
+      "lng": -3.545059
+    },
+    "bbox": [
+      -3.604707,
+      40.787506,
+      -3.502204,
+      40.863055
+    ]
+  },
+  "28152": {
+    "geoUnitId": "28152",
+    "datasetId": "community_municipalities",
+    "code": "28152",
+    "nameOfficial": "Torrelodones",
+    "nameDisplay": "Torrelodones",
+    "nameAscii": "Torrelodones",
+    "slug": "torrelodones",
+    "areaKm2": 21.6761,
+    "centroid": {
+      "lat": 40.575658,
+      "lng": -3.926165
+    },
+    "labelPoint": {
+      "lat": 40.572644,
+      "lng": -3.923994
+    },
+    "bbox": [
+      -3.959594,
+      40.547847,
+      -3.883433,
+      40.597438
+    ]
+  },
+  "28153": {
+    "geoUnitId": "28153",
+    "datasetId": "community_municipalities",
+    "code": "28153",
+    "nameOfficial": "Torremocha de Jarama",
+    "nameDisplay": "Torremocha de Jarama",
+    "nameAscii": "Torremocha de Jarama",
+    "slug": "torremocha-de-jarama",
+    "areaKm2": 18.8731,
+    "centroid": {
+      "lat": 40.833721,
+      "lng": -3.500301
+    },
+    "labelPoint": {
+      "lat": 40.836432,
+      "lng": -3.495945
+    },
+    "bbox": [
+      -3.536535,
+      40.796639,
+      -3.469748,
+      40.876126
+    ]
+  },
+  "28154": {
+    "geoUnitId": "28154",
+    "datasetId": "community_municipalities",
+    "code": "28154",
+    "nameOfficial": "Torres de la Alameda",
+    "nameDisplay": "Torres de la Alameda",
+    "nameAscii": "Torres de la Alameda",
+    "slug": "torres-de-la-alameda",
+    "areaKm2": 43.5811,
+    "centroid": {
+      "lat": 40.410135,
+      "lng": -3.368452
+    },
+    "labelPoint": {
+      "lat": 40.411484,
+      "lng": -3.36483
+    },
+    "bbox": [
+      -3.426856,
+      40.366513,
+      -3.312154,
+      40.456294
+    ]
+  },
+  "28155": {
+    "geoUnitId": "28155",
+    "datasetId": "community_municipalities",
+    "code": "28155",
+    "nameOfficial": "Valdaracete",
+    "nameDisplay": "Valdaracete",
+    "nameAscii": "Valdaracete",
+    "slug": "valdaracete",
+    "areaKm2": 63.7998,
+    "centroid": {
+      "lat": 40.198307,
+      "lng": -3.1994
+    },
+    "labelPoint": {
+      "lat": 40.201806,
+      "lng": -3.214278
+    },
+    "bbox": [
+      -3.270691,
+      40.155229,
+      -3.149128,
+      40.248037
+    ]
+  },
+  "28156": {
+    "geoUnitId": "28156",
+    "datasetId": "community_municipalities",
+    "code": "28156",
+    "nameOfficial": "Valdeavero",
+    "nameDisplay": "Valdeavero",
+    "nameAscii": "Valdeavero",
+    "slug": "valdeavero",
+    "areaKm2": 18.7116,
+    "centroid": {
+      "lat": 40.622674,
+      "lng": -3.35016
+    },
+    "labelPoint": {
+      "lat": 40.625883,
+      "lng": -3.355113
+    },
+    "bbox": [
+      -3.383596,
+      40.596608,
+      -3.313857,
+      40.655178
+    ]
+  },
+  "28157": {
+    "geoUnitId": "28157",
+    "datasetId": "community_municipalities",
+    "code": "28157",
+    "nameOfficial": "Valdelaguna",
+    "nameDisplay": "Valdelaguna",
+    "nameAscii": "Valdelaguna",
+    "slug": "valdelaguna",
+    "areaKm2": 42.0536,
+    "centroid": {
+      "lat": 40.176198,
+      "lng": -3.371999
+    },
+    "labelPoint": {
+      "lat": 40.176958,
+      "lng": -3.362072
+    },
+    "bbox": [
+      -3.423033,
+      40.133647,
+      -3.320356,
+      40.219016
+    ]
+  },
+  "28158": {
+    "geoUnitId": "28158",
+    "datasetId": "community_municipalities",
+    "code": "28158",
+    "nameOfficial": "Valdemanco",
+    "nameDisplay": "Valdemanco",
+    "nameAscii": "Valdemanco",
+    "slug": "valdemanco",
+    "areaKm2": 17.7884,
+    "centroid": {
+      "lat": 40.862595,
+      "lng": -3.665535
+    },
+    "labelPoint": {
+      "lat": 40.862466,
+      "lng": -3.663867
+    },
+    "bbox": [
+      -3.693987,
+      40.832531,
+      -3.642808,
+      40.892196
+    ]
+  },
+  "28159": {
+    "geoUnitId": "28159",
+    "datasetId": "community_municipalities",
+    "code": "28159",
+    "nameOfficial": "Valdemaqueda",
+    "nameDisplay": "Valdemaqueda",
+    "nameAscii": "Valdemaqueda",
+    "slug": "valdemaqueda",
+    "areaKm2": 51.7143,
+    "centroid": {
+      "lat": 40.507072,
+      "lng": -4.299611
+    },
+    "labelPoint": {
+      "lat": 40.498551,
+      "lng": -4.304249
+    },
+    "bbox": [
+      -4.340656,
+      40.431893,
+      -4.256247,
+      40.565256
+    ]
+  },
+  "28160": {
+    "geoUnitId": "28160",
+    "datasetId": "community_municipalities",
+    "code": "28160",
+    "nameOfficial": "Valdemorillo",
+    "nameDisplay": "Valdemorillo",
+    "nameAscii": "Valdemorillo",
+    "slug": "valdemorillo",
+    "areaKm2": 93.8438,
+    "centroid": {
+      "lat": 40.504001,
+      "lng": -4.068613
+    },
+    "labelPoint": {
+      "lat": 40.506726,
+      "lng": -4.071874
+    },
+    "bbox": [
+      -4.131574,
+      40.441168,
+      -3.99209,
+      40.572255
+    ]
+  },
+  "28161": {
+    "geoUnitId": "28161",
+    "datasetId": "community_municipalities",
+    "code": "28161",
+    "nameOfficial": "Valdemoro",
+    "nameDisplay": "Valdemoro",
+    "nameAscii": "Valdemoro",
+    "slug": "valdemoro",
+    "areaKm2": 64.1474,
+    "centroid": {
+      "lat": 40.183258,
+      "lng": -3.657515
+    },
+    "labelPoint": {
+      "lat": 40.181095,
+      "lng": -3.652225
+    },
+    "bbox": [
+      -3.71811,
+      40.13227,
+      -3.591564,
+      40.229663
+    ]
+  },
+  "28162": {
+    "geoUnitId": "28162",
+    "datasetId": "community_municipalities",
+    "code": "28162",
+    "nameOfficial": "Valdeolmos-Alalpardo",
+    "nameDisplay": "Valdeolmos-Alalpardo",
+    "nameAscii": "Valdeolmos-Alalpardo",
+    "slug": "valdeolmos-alalpardo",
+    "areaKm2": 25.8494,
+    "centroid": {
+      "lat": 40.636298,
+      "lng": -3.461817
+    },
+    "labelPoint": {
+      "lat": 40.637838,
+      "lng": -3.45788
+    },
+    "bbox": [
+      -3.49142,
+      40.604702,
+      -3.420273,
+      40.670407
+    ]
+  },
+  "28163": {
+    "geoUnitId": "28163",
+    "datasetId": "community_municipalities",
+    "code": "28163",
+    "nameOfficial": "Valdepiélagos",
+    "nameDisplay": "Valdepiélagos",
+    "nameAscii": "Valdepielagos",
+    "slug": "valdepielagos",
+    "areaKm2": 17.6662,
+    "centroid": {
+      "lat": 40.764084,
+      "lng": -3.470859
+    },
+    "labelPoint": {
+      "lat": 40.763487,
+      "lng": -3.466834
+    },
+    "bbox": [
+      -3.506824,
+      40.722627,
+      -3.438578,
+      40.788886
+    ]
+  },
+  "28164": {
+    "geoUnitId": "28164",
+    "datasetId": "community_municipalities",
+    "code": "28164",
+    "nameOfficial": "Valdetorres de Jarama",
+    "nameDisplay": "Valdetorres de Jarama",
+    "nameAscii": "Valdetorres de Jarama",
+    "slug": "valdetorres-de-jarama",
+    "areaKm2": 35.088,
+    "centroid": {
+      "lat": 40.690384,
+      "lng": -3.510718
+    },
+    "labelPoint": {
+      "lat": 40.696219,
+      "lng": -3.508984
+    },
+    "bbox": [
+      -3.556827,
+      40.660392,
+      -3.460229,
+      40.732534
+    ]
+  },
+  "28166": {
+    "geoUnitId": "28166",
+    "datasetId": "community_municipalities",
+    "code": "28166",
+    "nameOfficial": "Valverde de Alcalá",
+    "nameDisplay": "Valverde de Alcalá",
+    "nameAscii": "Valverde de Alcala",
+    "slug": "valverde-de-alcala",
+    "areaKm2": 13.7395,
+    "centroid": {
+      "lat": 40.404884,
+      "lng": -3.301009
+    },
+    "labelPoint": {
+      "lat": 40.402459,
+      "lng": -3.297358
+    },
+    "bbox": [
+      -3.332405,
+      40.38052,
+      -3.273743,
+      40.425953
+    ]
+  },
+  "28167": {
+    "geoUnitId": "28167",
+    "datasetId": "community_municipalities",
+    "code": "28167",
+    "nameOfficial": "Velilla de San Antonio",
+    "nameDisplay": "Velilla de San Antonio",
+    "nameAscii": "Velilla de San Antonio",
+    "slug": "velilla-de-san-antonio",
+    "areaKm2": 14.3733,
+    "centroid": {
+      "lat": 40.363896,
+      "lng": -3.476001
+    },
+    "labelPoint": {
+      "lat": 40.363316,
+      "lng": -3.474553
+    },
+    "bbox": [
+      -3.512024,
+      40.338112,
+      -3.451261,
+      40.388492
+    ]
+  },
+  "28168": {
+    "geoUnitId": "28168",
+    "datasetId": "community_municipalities",
+    "code": "28168",
+    "nameOfficial": "El Vellón",
+    "nameDisplay": "El Vellón",
+    "nameAscii": "El Vellon",
+    "slug": "el-vellon",
+    "areaKm2": 33.4872,
+    "centroid": {
+      "lat": 40.76916,
+      "lng": -3.56114
+    },
+    "labelPoint": {
+      "lat": 40.76336,
+      "lng": -3.562363
+    },
+    "bbox": [
+      -3.610229,
+      40.734617,
+      -3.508789,
+      40.79198
+    ]
+  },
+  "28170": {
+    "geoUnitId": "28170",
+    "datasetId": "community_municipalities",
+    "code": "28170",
+    "nameOfficial": "Villaconejos",
+    "nameDisplay": "Villaconejos",
+    "nameAscii": "Villaconejos",
+    "slug": "villaconejos",
+    "areaKm2": 33.2668,
+    "centroid": {
+      "lat": 40.112609,
+      "lng": -3.499148
+    },
+    "labelPoint": {
+      "lat": 40.11239,
+      "lng": -3.499995
+    },
+    "bbox": [
+      -3.549387,
+      40.084864,
+      -3.451032,
+      40.139982
+    ]
+  },
+  "28171": {
+    "geoUnitId": "28171",
+    "datasetId": "community_municipalities",
+    "code": "28171",
+    "nameOfficial": "Villa del Prado",
+    "nameDisplay": "Villa del Prado",
+    "nameAscii": "Villa del Prado",
+    "slug": "villa-del-prado",
+    "areaKm2": 77.272,
+    "centroid": {
+      "lat": 40.27515,
+      "lng": -4.306279
+    },
+    "labelPoint": {
+      "lat": 40.272347,
+      "lng": -4.303437
+    },
+    "bbox": [
+      -4.35842,
+      40.218881,
+      -4.23148,
+      40.325836
+    ]
+  },
+  "28172": {
+    "geoUnitId": "28172",
+    "datasetId": "community_municipalities",
+    "code": "28172",
+    "nameOfficial": "Villalbilla",
+    "nameDisplay": "Villalbilla",
+    "nameAscii": "Villalbilla",
+    "slug": "villalbilla",
+    "areaKm2": 34.4378,
+    "centroid": {
+      "lat": 40.44232,
+      "lng": -3.325165
+    },
+    "labelPoint": {
+      "lat": 40.444844,
+      "lng": -3.327877
+    },
+    "bbox": [
+      -3.408949,
+      40.418048,
+      -3.267214,
+      40.47198
+    ]
+  },
+  "28173": {
+    "geoUnitId": "28173",
+    "datasetId": "community_municipalities",
+    "code": "28173",
+    "nameOfficial": "Villamanrique de Tajo",
+    "nameDisplay": "Villamanrique de Tajo",
+    "nameAscii": "Villamanrique de Tajo",
+    "slug": "villamanrique-de-tajo",
+    "areaKm2": 29.5824,
+    "centroid": {
+      "lat": 40.076164,
+      "lng": -3.248713
+    },
+    "labelPoint": {
+      "lat": 40.079328,
+      "lng": -3.252471
+    },
+    "bbox": [
+      -3.287865,
+      40.047255,
+      -3.188418,
+      40.111306
+    ]
+  },
+  "28174": {
+    "geoUnitId": "28174",
+    "datasetId": "community_municipalities",
+    "code": "28174",
+    "nameOfficial": "Villamanta",
+    "nameDisplay": "Villamanta",
+    "nameAscii": "Villamanta",
+    "slug": "villamanta",
+    "areaKm2": 63.2431,
+    "centroid": {
+      "lat": 40.291715,
+      "lng": -4.121206
+    },
+    "labelPoint": {
+      "lat": 40.292536,
+      "lng": -4.126609
+    },
+    "bbox": [
+      -4.173239,
+      40.241834,
+      -4.065976,
+      40.343325
+    ]
+  },
+  "28175": {
+    "geoUnitId": "28175",
+    "datasetId": "community_municipalities",
+    "code": "28175",
+    "nameOfficial": "Villamantilla",
+    "nameDisplay": "Villamantilla",
+    "nameAscii": "Villamantilla",
+    "slug": "villamantilla",
+    "areaKm2": 23.9234,
+    "centroid": {
+      "lat": 40.342477,
+      "lng": -4.143883
+    },
+    "labelPoint": {
+      "lat": 40.343182,
+      "lng": -4.144837
+    },
+    "bbox": [
+      -4.187959,
+      40.318396,
+      -4.102909,
+      40.369872
+    ]
+  },
+  "28176": {
+    "geoUnitId": "28176",
+    "datasetId": "community_municipalities",
+    "code": "28176",
+    "nameOfficial": "Villanueva de la Cañada",
+    "nameDisplay": "Villanueva de la Cañada",
+    "nameAscii": "Villanueva de la Canada",
+    "slug": "villanueva-de-la-canada",
+    "areaKm2": 34.8175,
+    "centroid": {
+      "lat": 40.447887,
+      "lng": -3.985342
+    },
+    "labelPoint": {
+      "lat": 40.446231,
+      "lng": -3.994694
+    },
+    "bbox": [
+      -4.04347,
+      40.407695,
+      -3.936152,
+      40.48472
+    ]
+  },
+  "28177": {
+    "geoUnitId": "28177",
+    "datasetId": "community_municipalities",
+    "code": "28177",
+    "nameOfficial": "Villanueva del Pardillo",
+    "nameDisplay": "Villanueva del Pardillo",
+    "nameAscii": "Villanueva del Pardillo",
+    "slug": "villanueva-del-pardillo",
+    "areaKm2": 25.3803,
+    "centroid": {
+      "lat": 40.490464,
+      "lng": -3.968464
+    },
+    "labelPoint": {
+      "lat": 40.48627,
+      "lng": -3.968747
+    },
+    "bbox": [
+      -4.001351,
+      40.453518,
+      -3.93374,
+      40.519034
+    ]
+  },
+  "28178": {
+    "geoUnitId": "28178",
+    "datasetId": "community_municipalities",
+    "code": "28178",
+    "nameOfficial": "Villanueva de Perales",
+    "nameDisplay": "Villanueva de Perales",
+    "nameAscii": "Villanueva de Perales",
+    "slug": "villanueva-de-perales",
+    "areaKm2": 31.4644,
+    "centroid": {
+      "lat": 40.372848,
+      "lng": -4.090595
+    },
+    "labelPoint": {
+      "lat": 40.369128,
+      "lng": -4.099029
+    },
+    "bbox": [
+      -4.136647,
+      40.334364,
+      -4.03516,
+      40.403873
+    ]
+  },
+  "28179": {
+    "geoUnitId": "28179",
+    "datasetId": "community_municipalities",
+    "code": "28179",
+    "nameOfficial": "Villar del Olmo",
+    "nameDisplay": "Villar del Olmo",
+    "nameAscii": "Villar del Olmo",
+    "slug": "villar-del-olmo",
+    "areaKm2": 27.7827,
+    "centroid": {
+      "lat": 40.332154,
+      "lng": -3.240879
+    },
+    "labelPoint": {
+      "lat": 40.331056,
+      "lng": -3.242105
+    },
+    "bbox": [
+      -3.288196,
+      40.303479,
+      -3.199194,
+      40.358631
+    ]
+  },
+  "28180": {
+    "geoUnitId": "28180",
+    "datasetId": "community_municipalities",
+    "code": "28180",
+    "nameOfficial": "Villarejo de Salvanés",
+    "nameDisplay": "Villarejo de Salvanés",
+    "nameAscii": "Villarejo de Salvanes",
+    "slug": "villarejo-de-salvanes",
+    "areaKm2": 118.9894,
+    "centroid": {
+      "lat": 40.1299,
+      "lng": -3.268238
+    },
+    "labelPoint": {
+      "lat": 40.134,
+      "lng": -3.250124
+    },
+    "bbox": [
+      -3.349865,
+      40.051546,
+      -3.197705,
+      40.214779
+    ]
+  },
+  "28181": {
+    "geoUnitId": "28181",
+    "datasetId": "community_municipalities",
+    "code": "28181",
+    "nameOfficial": "Villaviciosa de Odón",
+    "nameDisplay": "Villaviciosa de Odón",
+    "nameAscii": "Villaviciosa de Odon",
+    "slug": "villaviciosa-de-odon",
+    "areaKm2": 68.1868,
+    "centroid": {
+      "lat": 40.360684,
+      "lng": -3.936957
+    },
+    "labelPoint": {
+      "lat": 40.357562,
+      "lng": -3.936859
+    },
+    "bbox": [
+      -4.006453,
+      40.300164,
+      -3.866385,
+      40.415347
+    ]
+  },
+  "28182": {
+    "geoUnitId": "28182",
+    "datasetId": "community_municipalities",
+    "code": "28182",
+    "nameOfficial": "Villavieja del Lozoya",
+    "nameDisplay": "Villavieja del Lozoya",
+    "nameAscii": "Villavieja del Lozoya",
+    "slug": "villavieja-del-lozoya",
+    "areaKm2": 23.2031,
+    "centroid": {
+      "lat": 41.028082,
+      "lng": -3.702309
+    },
+    "labelPoint": {
+      "lat": 41.027677,
+      "lng": -3.699381
+    },
+    "bbox": [
+      -3.755544,
+      40.990559,
+      -3.651171,
+      41.065032
+    ]
+  },
+  "28183": {
+    "geoUnitId": "28183",
+    "datasetId": "community_municipalities",
+    "code": "28183",
+    "nameOfficial": "Zarzalejo",
+    "nameDisplay": "Zarzalejo",
+    "nameAscii": "Zarzalejo",
+    "slug": "zarzalejo",
+    "areaKm2": 20.1773,
+    "centroid": {
+      "lat": 40.543454,
+      "lng": -4.179716
+    },
+    "labelPoint": {
+      "lat": 40.541312,
+      "lng": -4.176953
+    },
+    "bbox": [
+      -4.212859,
+      40.511332,
+      -4.144808,
+      40.571178
+    ]
+  },
+  "28901": {
+    "geoUnitId": "28901",
+    "datasetId": "community_municipalities",
+    "code": "28901",
+    "nameOfficial": "Lozoyuela-Navas-Sieteiglesias",
+    "nameDisplay": "Lozoyuela-Navas-Sieteiglesias",
+    "nameAscii": "Lozoyuela-Navas-Sieteiglesias",
+    "slug": "lozoyuela-navas-sieteiglesias",
+    "areaKm2": 51.435,
+    "centroid": {
+      "lat": 40.916496,
+      "lng": -3.620933
+    },
+    "labelPoint": {
+      "lat": 40.920164,
+      "lng": -3.619364
+    },
+    "bbox": [
+      -3.67533,
+      40.879269,
+      -3.568192,
+      40.961546
+    ]
+  },
+  "28902": {
+    "geoUnitId": "28902",
+    "datasetId": "community_municipalities",
+    "code": "28902",
+    "nameOfficial": "Puentes Viejas",
+    "nameDisplay": "Puentes Viejas",
+    "nameAscii": "Puentes Viejas",
+    "slug": "puentes-viejas",
+    "areaKm2": 58.5383,
+    "centroid": {
+      "lat": 40.978267,
+      "lng": -3.56072
+    },
+    "labelPoint": {
+      "lat": 40.968804,
+      "lng": -3.594178
+    },
+    "bbox": [
+      -3.629385,
+      40.903594,
+      -3.491925,
+      41.033996
+    ]
+  },
+  "28903": {
+    "geoUnitId": "28903",
+    "datasetId": "community_municipalities",
+    "code": "28903",
+    "nameOfficial": "Tres Cantos",
+    "nameDisplay": "Tres Cantos",
+    "nameAscii": "Tres Cantos",
+    "slug": "tres-cantos",
+    "areaKm2": 37.9599,
+    "centroid": {
+      "lat": 40.611335,
+      "lng": -3.725987
+    },
+    "labelPoint": {
+      "lat": 40.61376,
+      "lng": -3.708329
+    },
+    "bbox": [
+      -3.811508,
+      40.582125,
+      -3.666552,
+      40.645388
+    ]
+  },
+  "28048": {
+    "geoUnitId": "28048",
+    "datasetId": "community_municipalities",
+    "code": "28048",
+    "nameOfficial": "Corpa",
+    "nameDisplay": "Corpa",
+    "nameAscii": "Corpa",
+    "slug": "corpa",
+    "areaKm2": 25.9417,
+    "centroid": {
+      "lat": 40.418877,
+      "lng": -3.24815
+    },
+    "labelPoint": {
+      "lat": 40.418953,
+      "lng": -3.249968
+    },
+    "bbox": [
+      -3.288083,
+      40.393031,
+      -3.211157,
+      40.444358
+    ]
+  },
+  "28012": {
+    "geoUnitId": "28012",
+    "datasetId": "community_municipalities",
+    "code": "28012",
+    "nameOfficial": "Anchuelo",
+    "nameDisplay": "Anchuelo",
+    "nameAscii": "Anchuelo",
+    "slug": "anchuelo",
+    "areaKm2": 21.591,
+    "centroid": {
+      "lat": 40.46641,
+      "lng": -3.276799
+    },
+    "labelPoint": {
+      "lat": 40.466131,
+      "lng": -3.280783
+    },
+    "bbox": [
+      -3.321443,
+      40.438118,
+      -3.234323,
+      40.495089
+    ]
+  },
+  "28013": {
+    "geoUnitId": "28013",
+    "datasetId": "community_municipalities",
+    "code": "28013",
+    "nameOfficial": "Aranjuez",
+    "nameDisplay": "Aranjuez",
+    "nameAscii": "Aranjuez",
+    "slug": "aranjuez",
+    "areaKm2": 188.959,
+    "centroid": {
+      "lat": 39.994883,
+      "lng": -3.678868
+    },
+    "labelPoint": {
+      "lat": 40.007663,
+      "lng": -3.652957
+    },
+    "bbox": [
+      -3.87569,
+      39.884719,
+      -3.513542,
+      40.130629
+    ]
+  },
+  "28019": {
+    "geoUnitId": "28019",
+    "datasetId": "community_municipalities",
+    "code": "28019",
+    "nameOfficial": "Belmonte de Tajo",
+    "nameDisplay": "Belmonte de Tajo",
+    "nameAscii": "Belmonte de Tajo",
+    "slug": "belmonte-de-tajo",
+    "areaKm2": 24.0681,
+    "centroid": {
+      "lat": 40.137487,
+      "lng": -3.333861
+    },
+    "labelPoint": {
+      "lat": 40.137517,
+      "lng": -3.335057
+    },
+    "bbox": [
+      -3.377702,
+      40.097978,
+      -3.296616,
+      40.177984
+    ]
+  },
+  "28020": {
+    "geoUnitId": "28020",
+    "datasetId": "community_municipalities",
+    "code": "28020",
+    "nameOfficial": "Berzosa del Lozoya",
+    "nameDisplay": "Berzosa del Lozoya",
+    "nameAscii": "Berzosa del Lozoya",
+    "slug": "berzosa-del-lozoya",
+    "areaKm2": 14.6156,
+    "centroid": {
+      "lat": 40.973661,
+      "lng": -3.528249
+    },
+    "labelPoint": {
+      "lat": 40.972044,
+      "lng": -3.533016
+    },
+    "bbox": [
+      -3.564303,
+      40.950532,
+      -3.492807,
+      40.994043
+    ]
+  },
+  "28021": {
+    "geoUnitId": "28021",
+    "datasetId": "community_municipalities",
+    "code": "28021",
+    "nameOfficial": "El Berrueco",
+    "nameDisplay": "El Berrueco",
+    "nameAscii": "El Berrueco",
+    "slug": "el-berrueco",
+    "areaKm2": 28.4024,
+    "centroid": {
+      "lat": 40.881951,
+      "lng": -3.557841
+    },
+    "labelPoint": {
+      "lat": 40.878526,
+      "lng": -3.559031
+    },
+    "bbox": [
+      -3.602571,
+      40.850992,
+      -3.513162,
+      40.905895
+    ]
+  },
+  "28057": {
+    "geoUnitId": "28057",
+    "datasetId": "community_municipalities",
+    "code": "28057",
+    "nameOfficial": "Fresno de Torote",
+    "nameDisplay": "Fresno de Torote",
+    "nameAscii": "Fresno de Torote",
+    "slug": "fresno-de-torote",
+    "areaKm2": 31.7533,
+    "centroid": {
+      "lat": 40.609369,
+      "lng": -3.409355
+    },
+    "labelPoint": {
+      "lat": 40.608977,
+      "lng": -3.411532
+    },
+    "bbox": [
+      -3.444102,
+      40.5715,
+      -3.371261,
+      40.645845
+    ]
+  },
+  "28058": {
+    "geoUnitId": "28058",
+    "datasetId": "community_municipalities",
+    "code": "28058",
+    "nameOfficial": "Fuenlabrada",
+    "nameDisplay": "Fuenlabrada",
+    "nameAscii": "Fuenlabrada",
+    "slug": "fuenlabrada",
+    "areaKm2": 39.254,
+    "centroid": {
+      "lat": 40.283025,
+      "lng": -3.796782
+    },
+    "labelPoint": {
+      "lat": 40.289012,
+      "lng": -3.801157
+    },
+    "bbox": [
+      -3.849321,
+      40.249807,
+      -3.739301,
+      40.327793
+    ]
+  },
+  "28001": {
+    "geoUnitId": "28001",
+    "datasetId": "community_municipalities",
+    "code": "28001",
+    "nameOfficial": "La Acebeda",
+    "nameDisplay": "La Acebeda",
+    "nameAscii": "La Acebeda",
+    "slug": "la-acebeda",
+    "areaKm2": 21.8614,
+    "centroid": {
+      "lat": 41.093147,
+      "lng": -3.635709
+    },
+    "labelPoint": {
+      "lat": 41.095074,
+      "lng": -3.634435
+    },
+    "bbox": [
+      -3.676065,
+      41.068857,
+      -3.599775,
+      41.121291
+    ]
+  },
+  "28002": {
+    "geoUnitId": "28002",
+    "datasetId": "community_municipalities",
+    "code": "28002",
+    "nameOfficial": "Ajalvir",
+    "nameDisplay": "Ajalvir",
+    "nameAscii": "Ajalvir",
+    "slug": "ajalvir",
+    "areaKm2": 19.784,
+    "centroid": {
+      "lat": 40.523975,
+      "lng": -3.480138
+    },
+    "labelPoint": {
+      "lat": 40.527639,
+      "lng": -3.483939
+    },
+    "bbox": [
+      -3.512216,
+      40.493182,
+      -3.435093,
+      40.56217
+    ]
+  },
+  "28003": {
+    "geoUnitId": "28003",
+    "datasetId": "community_municipalities",
+    "code": "28003",
+    "nameOfficial": "Alameda del Valle",
+    "nameDisplay": "Alameda del Valle",
+    "nameAscii": "Alameda del Valle",
+    "slug": "alameda-del-valle",
+    "areaKm2": 25.7306,
+    "centroid": {
+      "lat": 40.920385,
+      "lng": -3.850003
+    },
+    "labelPoint": {
+      "lat": 40.915616,
+      "lng": -3.839365
+    },
+    "bbox": [
+      -3.898642,
+      40.85839,
+      -3.808635,
+      40.972817
+    ]
+  },
+  "28004": {
+    "geoUnitId": "28004",
+    "datasetId": "community_municipalities",
+    "code": "28004",
+    "nameOfficial": "El Álamo",
+    "nameDisplay": "El Álamo",
+    "nameAscii": "El Alamo",
+    "slug": "el-alamo",
+    "areaKm2": 21.9991,
+    "centroid": {
+      "lat": 40.232404,
+      "lng": -3.989258
+    },
+    "labelPoint": {
+      "lat": 40.232648,
+      "lng": -3.992916
+    },
+    "bbox": [
+      -4.026859,
+      40.209479,
+      -3.945544,
+      40.256427
+    ]
+  },
+  "28005": {
+    "geoUnitId": "28005",
+    "datasetId": "community_municipalities",
+    "code": "28005",
+    "nameOfficial": "Alcalá de Henares",
+    "nameDisplay": "Alcalá de Henares",
+    "nameAscii": "Alcala de Henares",
+    "slug": "alcala-de-henares",
+    "areaKm2": 88.1281,
+    "centroid": {
+      "lat": 40.494592,
+      "lng": -3.369601
+    },
+    "labelPoint": {
+      "lat": 40.495617,
+      "lng": -3.364636
+    },
+    "bbox": [
+      -3.447196,
+      40.445892,
+      -3.283847,
+      40.545462
+    ]
+  },
+  "28006": {
+    "geoUnitId": "28006",
+    "datasetId": "community_municipalities",
+    "code": "28006",
+    "nameOfficial": "Alcobendas",
+    "nameDisplay": "Alcobendas",
+    "nameAscii": "Alcobendas",
+    "slug": "alcobendas",
+    "areaKm2": 45.2202,
+    "centroid": {
+      "lat": 40.534595,
+      "lng": -3.630121
+    },
+    "labelPoint": {
+      "lat": 40.544998,
+      "lng": -3.655531
+    },
+    "bbox": [
+      -3.701591,
+      40.501173,
+      -3.550248,
+      40.588862
+    ]
+  },
+  "28007": {
+    "geoUnitId": "28007",
+    "datasetId": "community_municipalities",
+    "code": "28007",
+    "nameOfficial": "Alcorcón",
+    "nameDisplay": "Alcorcón",
+    "nameAscii": "Alcorcon",
+    "slug": "alcorcon",
+    "areaKm2": 33.5731,
+    "centroid": {
+      "lat": 40.358393,
+      "lng": -3.837232
+    },
+    "labelPoint": {
+      "lat": 40.363458,
+      "lng": -3.838712
+    },
+    "bbox": [
+      -3.879135,
+      40.323979,
+      -3.787765,
+      40.402973
+    ]
+  },
+  "28008": {
+    "geoUnitId": "28008",
+    "datasetId": "community_municipalities",
+    "code": "28008",
+    "nameOfficial": "Aldea del Fresno",
+    "nameDisplay": "Aldea del Fresno",
+    "nameAscii": "Aldea del Fresno",
+    "slug": "aldea-del-fresno",
+    "areaKm2": 51.6607,
+    "centroid": {
+      "lat": 40.309256,
+      "lng": -4.223785
+    },
+    "labelPoint": {
+      "lat": 40.30947,
+      "lng": -4.223621
+    },
+    "bbox": [
+      -4.295026,
+      40.268217,
+      -4.166389,
+      40.349957
+    ]
+  },
+  "28009": {
+    "geoUnitId": "28009",
+    "datasetId": "community_municipalities",
+    "code": "28009",
+    "nameOfficial": "Algete",
+    "nameDisplay": "Algete",
+    "nameAscii": "Algete",
+    "slug": "algete",
+    "areaKm2": 37.9227,
+    "centroid": {
+      "lat": 40.608218,
+      "lng": -3.529928
+    },
+    "labelPoint": {
+      "lat": 40.618416,
+      "lng": -3.498787
+    },
+    "bbox": [
+      -3.593683,
+      40.580849,
+      -3.453856,
+      40.656008
+    ]
+  },
+  "28010": {
+    "geoUnitId": "28010",
+    "datasetId": "community_municipalities",
+    "code": "28010",
+    "nameOfficial": "Alpedrete",
+    "nameDisplay": "Alpedrete",
+    "nameAscii": "Alpedrete",
+    "slug": "alpedrete",
+    "areaKm2": 12.6608,
+    "centroid": {
+      "lat": 40.661842,
+      "lng": -4.020814
+    },
+    "labelPoint": {
+      "lat": 40.657662,
+      "lng": -4.027782
+    },
+    "bbox": [
+      -4.047663,
+      40.632399,
+      -3.995264,
+      40.684189
+    ]
+  },
+  "28011": {
+    "geoUnitId": "28011",
+    "datasetId": "community_municipalities",
+    "code": "28011",
+    "nameOfficial": "Ambite",
+    "nameDisplay": "Ambite",
+    "nameAscii": "Ambite",
+    "slug": "ambite",
+    "areaKm2": 25.7994,
+    "centroid": {
+      "lat": 40.340775,
+      "lng": -3.176683
+    },
+    "labelPoint": {
+      "lat": 40.3414,
+      "lng": -3.178851
+    },
+    "bbox": [
+      -3.216266,
+      40.304277,
+      -3.140946,
+      40.378659
+    ]
+  },
+  "28014": {
+    "geoUnitId": "28014",
+    "datasetId": "community_municipalities",
+    "code": "28014",
+    "nameOfficial": "Arganda del Rey",
+    "nameDisplay": "Arganda del Rey",
+    "nameAscii": "Arganda del Rey",
+    "slug": "arganda-del-rey",
+    "areaKm2": 80.2617,
+    "centroid": {
+      "lat": 40.292369,
+      "lng": -3.445494
+    },
+    "labelPoint": {
+      "lat": 40.300314,
+      "lng": -3.450716
+    },
+    "bbox": [
+      -3.519797,
+      40.248378,
+      -3.369746,
+      40.352289
+    ]
+  },
+  "28015": {
+    "geoUnitId": "28015",
+    "datasetId": "community_municipalities",
+    "code": "28015",
+    "nameOfficial": "Arroyomolinos",
+    "nameDisplay": "Arroyomolinos",
+    "nameAscii": "Arroyomolinos",
+    "slug": "arroyomolinos",
+    "areaKm2": 20.7906,
+    "centroid": {
+      "lat": 40.280111,
+      "lng": -3.915809
+    },
+    "labelPoint": {
+      "lat": 40.28051,
+      "lng": -3.914609
+    },
+    "bbox": [
+      -3.948944,
+      40.256275,
+      -3.876073,
+      40.304829
+    ]
+  },
+  "28016": {
+    "geoUnitId": "28016",
+    "datasetId": "community_municipalities",
+    "code": "28016",
+    "nameOfficial": "El Atazar",
+    "nameDisplay": "El Atazar",
+    "nameAscii": "El Atazar",
+    "slug": "el-atazar",
+    "areaKm2": 28.4546,
+    "centroid": {
+      "lat": 40.939675,
+      "lng": -3.466686
+    },
+    "labelPoint": {
+      "lat": 40.937948,
+      "lng": -3.466208
+    },
+    "bbox": [
+      -3.503368,
+      40.908416,
+      -3.421583,
+      40.967285
+    ]
+  },
+  "28017": {
+    "geoUnitId": "28017",
+    "datasetId": "community_municipalities",
+    "code": "28017",
+    "nameOfficial": "Batres",
+    "nameDisplay": "Batres",
+    "nameAscii": "Batres",
+    "slug": "batres",
+    "areaKm2": 21.3437,
+    "centroid": {
+      "lat": 40.222739,
+      "lng": -3.926013
+    },
+    "labelPoint": {
+      "lat": 40.223768,
+      "lng": -3.92437
+    },
+    "bbox": [
+      -3.956297,
+      40.19621,
+      -3.894016,
+      40.251315
+    ]
+  },
+  "28018": {
+    "geoUnitId": "28018",
+    "datasetId": "community_municipalities",
+    "code": "28018",
+    "nameOfficial": "Becerril de la Sierra",
+    "nameDisplay": "Becerril de la Sierra",
+    "nameAscii": "Becerril de la Sierra",
+    "slug": "becerril-de-la-sierra",
+    "areaKm2": 30.5292,
+    "centroid": {
+      "lat": 40.705857,
+      "lng": -3.937063
+    },
+    "labelPoint": {
+      "lat": 40.728566,
+      "lng": -3.974604
+    },
+    "bbox": [
+      -4.004857,
+      40.645655,
+      -3.830053,
+      40.767111
+    ]
+  },
+  "28022": {
+    "geoUnitId": "28022",
+    "datasetId": "community_municipalities",
+    "code": "28022",
+    "nameOfficial": "Boadilla del Monte",
+    "nameDisplay": "Boadilla del Monte",
+    "nameAscii": "Boadilla del Monte",
+    "slug": "boadilla-del-monte",
+    "areaKm2": 47.4632,
+    "centroid": {
+      "lat": 40.420335,
+      "lng": -3.892677
+    },
+    "labelPoint": {
+      "lat": 40.41704,
+      "lng": -3.897026
+    },
+    "bbox": [
+      -3.952589,
+      40.377684,
+      -3.837814,
+      40.456197
+    ]
+  },
+  "28023": {
+    "geoUnitId": "28023",
+    "datasetId": "community_municipalities",
+    "code": "28023",
+    "nameOfficial": "El Boalo",
+    "nameDisplay": "El Boalo",
+    "nameAscii": "El Boalo",
+    "slug": "el-boalo",
+    "areaKm2": 39.4484,
+    "centroid": {
+      "lat": 40.709056,
+      "lng": -3.922023
+    },
+    "labelPoint": {
+      "lat": 40.722748,
+      "lng": -3.916243
+    },
+    "bbox": [
+      -3.968603,
+      40.648578,
+      -3.832302,
+      40.768198
+    ]
+  },
+  "28024": {
+    "geoUnitId": "28024",
+    "datasetId": "community_municipalities",
+    "code": "28024",
+    "nameOfficial": "Braojos",
+    "nameDisplay": "Braojos",
+    "nameAscii": "Braojos",
+    "slug": "braojos",
+    "areaKm2": 24.928,
+    "centroid": {
+      "lat": 41.059566,
+      "lng": -3.659825
+    },
+    "labelPoint": {
+      "lat": 41.059286,
+      "lng": -3.656776
+    },
+    "bbox": [
+      -3.706195,
+      41.029059,
+      -3.623048,
+      41.086696
+    ]
+  },
+  "28025": {
+    "geoUnitId": "28025",
+    "datasetId": "community_municipalities",
+    "code": "28025",
+    "nameOfficial": "Brea de Tajo",
+    "nameDisplay": "Brea de Tajo",
+    "nameAscii": "Brea de Tajo",
+    "slug": "brea-de-tajo",
+    "areaKm2": 44.726,
+    "centroid": {
+      "lat": 40.240563,
+      "lng": -3.121013
+    },
+    "labelPoint": {
+      "lat": 40.24301,
+      "lng": -3.129168
+    },
+    "bbox": [
+      -3.173397,
+      40.200318,
+      -3.07936,
+      40.285478
+    ]
+  },
+  "28026": {
+    "geoUnitId": "28026",
+    "datasetId": "community_municipalities",
+    "code": "28026",
+    "nameOfficial": "Brunete",
+    "nameDisplay": "Brunete",
+    "nameAscii": "Brunete",
+    "slug": "brunete",
+    "areaKm2": 49.171,
+    "centroid": {
+      "lat": 40.397158,
+      "lng": -3.994964
+    },
+    "labelPoint": {
+      "lat": 40.397616,
+      "lng": -3.994764
+    },
+    "bbox": [
+      -4.046504,
+      40.359006,
+      -3.94394,
+      40.436277
+    ]
+  },
+  "28027": {
+    "geoUnitId": "28027",
+    "datasetId": "community_municipalities",
+    "code": "28027",
+    "nameOfficial": "Buitrago del Lozoya",
+    "nameDisplay": "Buitrago del Lozoya",
+    "nameAscii": "Buitrago del Lozoya",
+    "slug": "buitrago-del-lozoya",
+    "areaKm2": 25.9315,
+    "centroid": {
+      "lat": 40.988409,
+      "lng": -3.627179
+    },
+    "labelPoint": {
+      "lat": 40.989172,
+      "lng": -3.623624
+    },
+    "bbox": [
+      -3.668715,
+      40.9537,
+      -3.580426,
+      41.024622
+    ]
+  },
+  "28028": {
+    "geoUnitId": "28028",
+    "datasetId": "community_municipalities",
+    "code": "28028",
+    "nameOfficial": "Bustarviejo",
+    "nameDisplay": "Bustarviejo",
+    "nameAscii": "Bustarviejo",
+    "slug": "bustarviejo",
+    "areaKm2": 56.13,
+    "centroid": {
+      "lat": 40.841572,
+      "lng": -3.728344
+    },
+    "labelPoint": {
+      "lat": 40.83762,
+      "lng": -3.729967
+    },
+    "bbox": [
+      -3.789618,
+      40.794632,
+      -3.67113,
+      40.880635
+    ]
+  },
+  "28029": {
+    "geoUnitId": "28029",
+    "datasetId": "community_municipalities",
+    "code": "28029",
+    "nameOfficial": "Cabanillas de la Sierra",
+    "nameDisplay": "Cabanillas de la Sierra",
+    "nameAscii": "Cabanillas de la Sierra",
+    "slug": "cabanillas-de-la-sierra",
+    "areaKm2": 13.8082,
+    "centroid": {
+      "lat": 40.825459,
+      "lng": -3.634758
+    },
+    "labelPoint": {
+      "lat": 40.826353,
+      "lng": -3.631728
+    },
+    "bbox": [
+      -3.659619,
+      40.801084,
+      -3.608265,
+      40.85181
+    ]
+  },
+  "28030": {
+    "geoUnitId": "28030",
+    "datasetId": "community_municipalities",
+    "code": "28030",
+    "nameOfficial": "La Cabrera",
+    "nameDisplay": "La Cabrera",
+    "nameAscii": "La Cabrera",
+    "slug": "la-cabrera",
+    "areaKm2": 22.1395,
+    "centroid": {
+      "lat": 40.862849,
+      "lng": -3.613211
+    },
+    "labelPoint": {
+      "lat": 40.864302,
+      "lng": -3.613828
+    },
+    "bbox": [
+      -3.650423,
+      40.840478,
+      -3.571011,
+      40.888736
+    ]
+  },
+  "28031": {
+    "geoUnitId": "28031",
+    "datasetId": "community_municipalities",
+    "code": "28031",
+    "nameOfficial": "Cadalso de los Vidrios",
+    "nameDisplay": "Cadalso de los Vidrios",
+    "nameAscii": "Cadalso de los Vidrios",
+    "slug": "cadalso-de-los-vidrios",
+    "areaKm2": 47.8568,
+    "centroid": {
+      "lat": 40.298483,
+      "lng": -4.432825
+    },
+    "labelPoint": {
+      "lat": 40.295348,
+      "lng": -4.435157
+    },
+    "bbox": [
+      -4.50646,
+      40.257557,
+      -4.378287,
+      40.333094
+    ]
+  },
+  "28032": {
+    "geoUnitId": "28032",
+    "datasetId": "community_municipalities",
+    "code": "28032",
+    "nameOfficial": "Camarma de Esteruelas",
+    "nameDisplay": "Camarma de Esteruelas",
+    "nameAscii": "Camarma de Esteruelas",
+    "slug": "camarma-de-esteruelas",
+    "areaKm2": 35.1817,
+    "centroid": {
+      "lat": 40.562269,
+      "lng": -3.375934
+    },
+    "labelPoint": {
+      "lat": 40.566044,
+      "lng": -3.380583
+    },
+    "bbox": [
+      -3.418546,
+      40.523204,
+      -3.336342,
+      40.608166
+    ]
+  },
+  "28036": {
+    "geoUnitId": "28036",
+    "datasetId": "community_municipalities",
+    "code": "28036",
+    "nameOfficial": "Casarrubuelos",
+    "nameDisplay": "Casarrubuelos",
+    "nameAscii": "Casarrubuelos",
+    "slug": "casarrubuelos",
+    "areaKm2": 5.3397,
+    "centroid": {
+      "lat": 40.172404,
+      "lng": -3.832016
+    },
+    "labelPoint": {
+      "lat": 40.170661,
+      "lng": -3.835625
+    },
+    "bbox": [
+      -3.853528,
+      40.161352,
+      -3.806751,
+      40.179965
+    ]
+  },
+  "28037": {
+    "geoUnitId": "28037",
+    "datasetId": "community_municipalities",
+    "code": "28037",
+    "nameOfficial": "Cenicientos",
+    "nameDisplay": "Cenicientos",
+    "nameAscii": "Cenicientos",
+    "slug": "cenicientos",
+    "areaKm2": 68.2461,
+    "centroid": {
+      "lat": 40.243994,
+      "lng": -4.508369
+    },
+    "labelPoint": {
+      "lat": 40.24088,
+      "lng": -4.501368
+    },
+    "bbox": [
+      -4.579076,
+      40.199343,
+      -4.434513,
+      40.283008
+    ]
+  },
+  "28038": {
+    "geoUnitId": "28038",
+    "datasetId": "community_municipalities",
+    "code": "28038",
+    "nameOfficial": "Cercedilla",
+    "nameDisplay": "Cercedilla",
+    "nameAscii": "Cercedilla",
+    "slug": "cercedilla",
+    "areaKm2": 35.7327,
+    "centroid": {
+      "lat": 40.755804,
+      "lng": -4.059942
+    },
+    "labelPoint": {
+      "lat": 40.753716,
+      "lng": -4.064746
+    },
+    "bbox": [
+      -4.096991,
+      40.714561,
+      -4.021317,
+      40.793915
+    ]
+  },
+  "28039": {
+    "geoUnitId": "28039",
+    "datasetId": "community_municipalities",
+    "code": "28039",
+    "nameOfficial": "Cervera de Buitrago",
+    "nameDisplay": "Cervera de Buitrago",
+    "nameAscii": "Cervera de Buitrago",
+    "slug": "cervera-de-buitrago",
+    "areaKm2": 11.539,
+    "centroid": {
+      "lat": 40.916634,
+      "lng": -3.524112
+    },
+    "labelPoint": {
+      "lat": 40.916712,
+      "lng": -3.520585
+    },
+    "bbox": [
+      -3.549732,
+      40.898446,
+      -3.489553,
+      40.934914
+    ]
+  },
+  "28040": {
+    "geoUnitId": "28040",
+    "datasetId": "community_municipalities",
+    "code": "28040",
+    "nameOfficial": "Ciempozuelos",
+    "nameDisplay": "Ciempozuelos",
+    "nameAscii": "Ciempozuelos",
+    "slug": "ciempozuelos",
+    "areaKm2": 49.4188,
+    "centroid": {
+      "lat": 40.151651,
+      "lng": -3.607136
+    },
+    "labelPoint": {
+      "lat": 40.152607,
+      "lng": -3.610314
+    },
+    "bbox": [
+      -3.667312,
+      40.108699,
+      -3.541082,
+      40.196366
+    ]
+  },
+  "28041": {
+    "geoUnitId": "28041",
+    "datasetId": "community_municipalities",
+    "code": "28041",
+    "nameOfficial": "Cobeña",
+    "nameDisplay": "Cobeña",
+    "nameAscii": "Cobena",
+    "slug": "cobena",
+    "areaKm2": 20.7909,
+    "centroid": {
+      "lat": 40.568169,
+      "lng": -3.507534
+    },
+    "labelPoint": {
+      "lat": 40.567046,
+      "lng": -3.511562
+    },
+    "bbox": [
+      -3.550399,
+      40.538637,
+      -3.466084,
+      40.595761
+    ]
+  },
+  "28042": {
+    "geoUnitId": "28042",
+    "datasetId": "community_municipalities",
+    "code": "28042",
+    "nameOfficial": "Colmenar del Arroyo",
+    "nameDisplay": "Colmenar del Arroyo",
+    "nameAscii": "Colmenar del Arroyo",
+    "slug": "colmenar-del-arroyo",
+    "areaKm2": 49.3218,
+    "centroid": {
+      "lat": 40.40588,
+      "lng": -4.192876
+    },
+    "labelPoint": {
+      "lat": 40.40149,
+      "lng": -4.235766
+    },
+    "bbox": [
+      -4.253061,
+      40.347774,
+      -4.146226,
+      40.455167
+    ]
+  },
+  "28033": {
+    "geoUnitId": "28033",
+    "datasetId": "community_municipalities",
+    "code": "28033",
+    "nameOfficial": "Campo Real",
+    "nameDisplay": "Campo Real",
+    "nameAscii": "Campo Real",
+    "slug": "campo-real",
+    "areaKm2": 61.7643,
+    "centroid": {
+      "lat": 40.322999,
+      "lng": -3.373282
+    },
+    "labelPoint": {
+      "lat": 40.314497,
+      "lng": -3.378594
+    },
+    "bbox": [
+      -3.432044,
+      40.265333,
+      -3.31286,
+      40.363282
+    ]
+  },
+  "28034": {
+    "geoUnitId": "28034",
+    "datasetId": "community_municipalities",
+    "code": "28034",
+    "nameOfficial": "Canencia",
+    "nameDisplay": "Canencia",
+    "nameAscii": "Canencia",
+    "slug": "canencia",
+    "areaKm2": 54.1879,
+    "centroid": {
+      "lat": 40.892895,
+      "lng": -3.760145
+    },
+    "labelPoint": {
+      "lat": 40.894203,
+      "lng": -3.75689
+    },
+    "bbox": [
+      -3.819581,
+      40.846532,
+      -3.695803,
+      40.94169
+    ]
+  },
+  "28035": {
+    "geoUnitId": "28035",
+    "datasetId": "community_municipalities",
+    "code": "28035",
+    "nameOfficial": "Carabaña",
+    "nameDisplay": "Carabaña",
+    "nameAscii": "Carabana",
+    "slug": "carabana",
+    "areaKm2": 47.6367,
+    "centroid": {
+      "lat": 40.254422,
+      "lng": -3.246142
+    },
+    "labelPoint": {
+      "lat": 40.25825,
+      "lng": -3.240852
+    },
+    "bbox": [
+      -3.284897,
+      40.212472,
+      -3.194449,
+      40.303479
+    ]
+  },
+  "28043": {
+    "geoUnitId": "28043",
+    "datasetId": "community_municipalities",
+    "code": "28043",
+    "nameOfficial": "Colmenar de Oreja",
+    "nameDisplay": "Colmenar de Oreja",
+    "nameAscii": "Colmenar de Oreja",
+    "slug": "colmenar-de-oreja",
+    "areaKm2": 126.3299,
+    "centroid": {
+      "lat": 40.081074,
+      "lng": -3.451779
+    },
+    "labelPoint": {
+      "lat": 40.084983,
+      "lng": -3.424872
+    },
+    "bbox": [
+      -3.594049,
+      40.034142,
+      -3.343785,
+      40.135832
+    ]
+  },
+  "28044": {
+    "geoUnitId": "28044",
+    "datasetId": "community_municipalities",
+    "code": "28044",
+    "nameOfficial": "Colmenarejo",
+    "nameDisplay": "Colmenarejo",
+    "nameAscii": "Colmenarejo",
+    "slug": "colmenarejo",
+    "areaKm2": 31.4801,
+    "centroid": {
+      "lat": 40.537591,
+      "lng": -4.018971
+    },
+    "labelPoint": {
+      "lat": 40.534842,
+      "lng": -4.016622
+    },
+    "bbox": [
+      -4.054356,
+      40.485624,
+      -3.984421,
+      40.584125
+    ]
+  },
+  "28045": {
+    "geoUnitId": "28045",
+    "datasetId": "community_municipalities",
+    "code": "28045",
+    "nameOfficial": "Colmenar Viejo",
+    "nameDisplay": "Colmenar Viejo",
+    "nameAscii": "Colmenar Viejo",
+    "slug": "colmenar-viejo",
+    "areaKm2": 182.8434,
+    "centroid": {
+      "lat": 40.66395,
+      "lng": -3.74608
+    },
+    "labelPoint": {
+      "lat": 40.661649,
+      "lng": -3.74924
+    },
+    "bbox": [
+      -3.8651,
+      40.591357,
+      -3.58456,
+      40.73204
+    ]
+  },
+  "28046": {
+    "geoUnitId": "28046",
+    "datasetId": "community_municipalities",
+    "code": "28046",
+    "nameOfficial": "Collado Mediano",
+    "nameDisplay": "Collado Mediano",
+    "nameAscii": "Collado Mediano",
+    "slug": "collado-mediano",
+    "areaKm2": 22.1976,
+    "centroid": {
+      "lat": 40.69379,
+      "lng": -4.032242
+    },
+    "labelPoint": {
+      "lat": 40.690572,
+      "lng": -4.028016
+    },
+    "bbox": [
+      -4.061567,
+      40.662528,
+      -3.994779,
+      40.718666
+    ]
+  },
+  "28047": {
+    "geoUnitId": "28047",
+    "datasetId": "community_municipalities",
+    "code": "28047",
+    "nameOfficial": "Collado Villalba",
+    "nameDisplay": "Collado Villalba",
+    "nameAscii": "Collado Villalba",
+    "slug": "collado-villalba",
+    "areaKm2": 25.2048,
+    "centroid": {
+      "lat": 40.641214,
+      "lng": -3.988433
+    },
+    "labelPoint": {
+      "lat": 40.648564,
+      "lng": -3.981922
+    },
+    "bbox": [
+      -4.029667,
+      40.61619,
+      -3.94653,
+      40.681103
+    ]
+  },
+  "28050": {
+    "geoUnitId": "28050",
+    "datasetId": "community_municipalities",
+    "code": "28050",
+    "nameOfficial": "Cubas de la Sagra",
+    "nameDisplay": "Cubas de la Sagra",
+    "nameAscii": "Cubas de la Sagra",
+    "slug": "cubas-de-la-sagra",
+    "areaKm2": 12.8894,
+    "centroid": {
+      "lat": 40.191003,
+      "lng": -3.837019
+    },
+    "labelPoint": {
+      "lat": 40.191328,
+      "lng": -3.842228
+    },
+    "bbox": [
+      -3.876322,
+      40.177166,
+      -3.803974,
+      40.205427
+    ]
+  },
+  "28049": {
+    "geoUnitId": "28049",
+    "datasetId": "community_municipalities",
+    "code": "28049",
+    "nameOfficial": "Coslada",
+    "nameDisplay": "Coslada",
+    "nameAscii": "Coslada",
+    "slug": "coslada",
+    "areaKm2": 12.0215,
+    "centroid": {
+      "lat": 40.426876,
+      "lng": -3.553026
+    },
+    "labelPoint": {
+      "lat": 40.428377,
+      "lng": -3.557153
+    },
+    "bbox": [
+      -3.579532,
+      40.410492,
+      -3.526507,
+      40.446873
+    ]
+  },
+  "28051": {
+    "geoUnitId": "28051",
+    "datasetId": "community_municipalities",
+    "code": "28051",
+    "nameOfficial": "Chapinería",
+    "nameDisplay": "Chapinería",
+    "nameAscii": "Chapineria",
+    "slug": "chapineria",
+    "areaKm2": 25.544,
+    "centroid": {
+      "lat": 40.370758,
+      "lng": -4.210395
+    },
+    "labelPoint": {
+      "lat": 40.36926,
+      "lng": -4.215745
+    },
+    "bbox": [
+      -4.237615,
+      40.334085,
+      -4.177789,
+      40.404244
+    ]
+  },
+  "28052": {
+    "geoUnitId": "28052",
+    "datasetId": "community_municipalities",
+    "code": "28052",
+    "nameOfficial": "Chinchón",
+    "nameDisplay": "Chinchón",
+    "nameAscii": "Chinchon",
+    "slug": "chinchon",
+    "areaKm2": 115.7731,
+    "centroid": {
+      "lat": 40.162452,
+      "lng": -3.478285
+    },
+    "labelPoint": {
+      "lat": 40.158096,
+      "lng": -3.470309
+    },
+    "bbox": [
+      -3.580933,
+      40.098986,
+      -3.38502,
+      40.217978
+    ]
+  },
+  "28053": {
+    "geoUnitId": "28053",
+    "datasetId": "community_municipalities",
+    "code": "28053",
+    "nameOfficial": "Daganzo de Arriba",
+    "nameDisplay": "Daganzo de Arriba",
+    "nameAscii": "Daganzo de Arriba",
+    "slug": "daganzo-de-arriba",
+    "areaKm2": 43.4054,
+    "centroid": {
+      "lat": 40.559582,
+      "lng": -3.444797
+    },
+    "labelPoint": {
+      "lat": 40.563122,
+      "lng": -3.441696
+    },
+    "bbox": [
+      -3.483188,
+      40.508906,
+      -3.395526,
+      40.617532
+    ]
+  },
+  "28054": {
+    "geoUnitId": "28054",
+    "datasetId": "community_municipalities",
+    "code": "28054",
+    "nameOfficial": "El Escorial",
+    "nameDisplay": "El Escorial",
+    "nameAscii": "El Escorial",
+    "slug": "el-escorial",
+    "areaKm2": 68.8108,
+    "centroid": {
+      "lat": 40.585628,
+      "lng": -4.09486
+    },
+    "labelPoint": {
+      "lat": 40.578076,
+      "lng": -4.094371
+    },
+    "bbox": [
+      -4.160002,
+      40.518673,
+      -4.032828,
+      40.637448
+    ]
+  },
+  "28055": {
+    "geoUnitId": "28055",
+    "datasetId": "community_municipalities",
+    "code": "28055",
+    "nameOfficial": "Estremera",
+    "nameDisplay": "Estremera",
+    "nameAscii": "Estremera",
+    "slug": "estremera",
+    "areaKm2": 79.1306,
+    "centroid": {
+      "lat": 40.146386,
+      "lng": -3.108812
+    },
+    "labelPoint": {
+      "lat": 40.142132,
+      "lng": -3.11668
+    },
+    "bbox": [
+      -3.162633,
+      40.061429,
+      -3.052983,
+      40.222838
+    ]
+  },
+  "28056": {
+    "geoUnitId": "28056",
+    "datasetId": "community_municipalities",
+    "code": "28056",
+    "nameOfficial": "Fresnedillas de la Oliva",
+    "nameDisplay": "Fresnedillas de la Oliva",
+    "nameAscii": "Fresnedillas de la Oliva",
+    "slug": "fresnedillas-de-la-oliva",
+    "areaKm2": 28.3301,
+    "centroid": {
+      "lat": 40.478909,
+      "lng": -4.183193
+    },
+    "labelPoint": {
+      "lat": 40.473438,
+      "lng": -4.187127
+    },
+    "bbox": [
+      -4.218298,
+      40.43688,
+      -4.141229,
+      40.510078
+    ]
+  },
+  "28059": {
+    "geoUnitId": "28059",
+    "datasetId": "community_municipalities",
+    "code": "28059",
+    "nameOfficial": "Fuente el Saz de Jarama",
+    "nameDisplay": "Fuente el Saz de Jarama",
+    "nameAscii": "Fuente el Saz de Jarama",
+    "slug": "fuente-el-saz-de-jarama",
+    "areaKm2": 33.1501,
+    "centroid": {
+      "lat": 40.642241,
+      "lng": -3.523648
+    },
+    "labelPoint": {
+      "lat": 40.641007,
+      "lng": -3.522821
+    },
+    "bbox": [
+      -3.564227,
+      40.61114,
+      -3.48118,
+      40.671776
+    ]
+  },
+  "28060": {
+    "geoUnitId": "28060",
+    "datasetId": "community_municipalities",
+    "code": "28060",
+    "nameOfficial": "Fuentidueña de Tajo",
+    "nameDisplay": "Fuentidueña de Tajo",
+    "nameAscii": "Fuentiduena de Tajo",
+    "slug": "fuentiduena-de-tajo",
+    "areaKm2": 60.1861,
+    "centroid": {
+      "lat": 40.110996,
+      "lng": -3.159105
+    },
+    "labelPoint": {
+      "lat": 40.111606,
+      "lng": -3.16522
+    },
+    "bbox": [
+      -3.204597,
+      40.061429,
+      -3.107432,
+      40.161526
+    ]
+  },
+  "28061": {
+    "geoUnitId": "28061",
+    "datasetId": "community_municipalities",
+    "code": "28061",
+    "nameOfficial": "Galapagar",
+    "nameDisplay": "Galapagar",
+    "nameAscii": "Galapagar",
+    "slug": "galapagar",
+    "areaKm2": 65.1819,
+    "centroid": {
+      "lat": 40.574918,
+      "lng": -3.985964
+    },
+    "labelPoint": {
+      "lat": 40.570051,
+      "lng": -3.987999
+    },
+    "bbox": [
+      -4.044557,
+      40.507891,
+      -3.937437,
+      40.633025
+    ]
+  },
+  "28062": {
+    "geoUnitId": "28062",
+    "datasetId": "community_municipalities",
+    "code": "28062",
+    "nameOfficial": "Garganta de los Montes",
+    "nameDisplay": "Garganta de los Montes",
+    "nameAscii": "Garganta de los Montes",
+    "slug": "garganta-de-los-montes",
+    "areaKm2": 40.3312,
+    "centroid": {
+      "lat": 40.929154,
+      "lng": -3.684101
+    },
+    "labelPoint": {
+      "lat": 40.928978,
+      "lng": -3.689199
+    },
+    "bbox": [
+      -3.725303,
+      40.880447,
+      -3.644461,
+      40.978701
+    ]
+  },
+  "28063": {
+    "geoUnitId": "28063",
+    "datasetId": "community_municipalities",
+    "code": "28063",
+    "nameOfficial": "Gargantilla del Lozoya y Pinilla de Buitrago",
+    "nameDisplay": "Gargantilla del Lozoya y Pinilla de Buitrago",
+    "nameAscii": "Gargantilla del Lozoya y Pinilla de Buitrago",
+    "slug": "gargantilla-del-lozoya-y-pinilla-de-buitrago",
+    "areaKm2": 24.1762,
+    "centroid": {
+      "lat": 40.966851,
+      "lng": -3.704313
+    },
+    "labelPoint": {
+      "lat": 40.96519,
+      "lng": -3.708794
+    },
+    "bbox": [
+      -3.741894,
+      40.934686,
+      -3.65424,
+      40.99575
+    ]
+  },
+  "28064": {
+    "geoUnitId": "28064",
+    "datasetId": "community_municipalities",
+    "code": "28064",
+    "nameOfficial": "Gascones",
+    "nameDisplay": "Gascones",
+    "nameAscii": "Gascones",
+    "slug": "gascones",
+    "areaKm2": 20.1577,
+    "centroid": {
+      "lat": 41.035516,
+      "lng": -3.673463
+    },
+    "labelPoint": {
+      "lat": 41.038782,
+      "lng": -3.680681
+    },
+    "bbox": [
+      -3.721423,
+      41.000727,
+      -3.633118,
+      41.07686
+    ]
+  },
+  "28065": {
+    "geoUnitId": "28065",
+    "datasetId": "community_municipalities",
+    "code": "28065",
+    "nameOfficial": "Getafe",
+    "nameDisplay": "Getafe",
+    "nameAscii": "Getafe",
+    "slug": "getafe",
+    "areaKm2": 78.584,
+    "centroid": {
+      "lat": 40.299138,
+      "lng": -3.673426
+    },
+    "labelPoint": {
+      "lat": 40.30045,
+      "lng": -3.668022
+    },
+    "bbox": [
+      -3.761743,
+      40.266375,
+      -3.570036,
+      40.334986
+    ]
+  },
+  "28066": {
+    "geoUnitId": "28066",
+    "datasetId": "community_municipalities",
+    "code": "28066",
+    "nameOfficial": "Griñón",
+    "nameDisplay": "Griñón",
+    "nameAscii": "Grinon",
+    "slug": "grinon",
+    "areaKm2": 17.0786,
+    "centroid": {
+      "lat": 40.217945,
+      "lng": -3.842902
+    },
+    "labelPoint": {
+      "lat": 40.218778,
+      "lng": -3.838817
+    },
+    "bbox": [
+      -3.884333,
+      40.199451,
+      -3.803362,
+      40.238098
+    ]
+  },
+  "28067": {
+    "geoUnitId": "28067",
+    "datasetId": "community_municipalities",
+    "code": "28067",
+    "nameOfficial": "Guadalix de la Sierra",
+    "nameDisplay": "Guadalix de la Sierra",
+    "nameAscii": "Guadalix de la Sierra",
+    "slug": "guadalix-de-la-sierra",
+    "areaKm2": 60.2673,
+    "centroid": {
+      "lat": 40.768511,
+      "lng": -3.684237
+    },
+    "labelPoint": {
+      "lat": 40.764653,
+      "lng": -3.686741
+    },
+    "bbox": [
+      -3.743608,
+      40.725017,
+      -3.608561,
+      40.804866
+    ]
+  },
+  "28068": {
+    "geoUnitId": "28068",
+    "datasetId": "community_municipalities",
+    "code": "28068",
+    "nameOfficial": "Guadarrama",
+    "nameDisplay": "Guadarrama",
+    "nameAscii": "Guadarrama",
+    "slug": "guadarrama",
+    "areaKm2": 57.1671,
+    "centroid": {
+      "lat": 40.677305,
+      "lng": -4.109986
+    },
+    "labelPoint": {
+      "lat": 40.677162,
+      "lng": -4.114573
+    },
+    "bbox": [
+      -4.173546,
+      40.629863,
+      -4.02604,
+      40.724494
+    ]
+  },
+  "28069": {
+    "geoUnitId": "28069",
+    "datasetId": "community_municipalities",
+    "code": "28069",
+    "nameOfficial": "La Hiruela",
+    "nameDisplay": "La Hiruela",
+    "nameAscii": "La Hiruela",
+    "slug": "la-hiruela",
+    "areaKm2": 17.1586,
+    "centroid": {
+      "lat": 41.069221,
+      "lng": -3.454724
+    },
+    "labelPoint": {
+      "lat": 41.068976,
+      "lng": -3.456251
+    },
+    "bbox": [
+      -3.485757,
+      41.04267,
+      -3.425135,
+      41.095267
+    ]
+  },
+  "28070": {
+    "geoUnitId": "28070",
+    "datasetId": "community_municipalities",
+    "code": "28070",
+    "nameOfficial": "Horcajo de la Sierra-Aoslos",
+    "nameDisplay": "Horcajo de la Sierra-Aoslos",
+    "nameAscii": "Horcajo de la Sierra-Aoslos",
+    "slug": "horcajo-de-la-sierra-aoslos",
+    "areaKm2": 21.2029,
+    "centroid": {
+      "lat": 41.079763,
+      "lng": -3.58238
+    },
+    "labelPoint": {
+      "lat": 41.078888,
+      "lng": -3.583523
+    },
+    "bbox": [
+      -3.609608,
+      41.043446,
+      -3.555762,
+      41.114328
+    ]
+  },
+  "28071": {
+    "geoUnitId": "28071",
+    "datasetId": "community_municipalities",
+    "code": "28071",
+    "nameOfficial": "Horcajuelo de la Sierra",
+    "nameDisplay": "Horcajuelo de la Sierra",
+    "nameAscii": "Horcajuelo de la Sierra",
+    "slug": "horcajuelo-de-la-sierra",
+    "areaKm2": 23.829,
+    "centroid": {
+      "lat": 41.09112,
+      "lng": -3.5435
+    },
+    "labelPoint": {
+      "lat": 41.087126,
+      "lng": -3.540347
+    },
+    "bbox": [
+      -3.564387,
+      41.037296,
+      -3.521943,
+      41.134743
+    ]
+  },
+  "28072": {
+    "geoUnitId": "28072",
+    "datasetId": "community_municipalities",
+    "code": "28072",
+    "nameOfficial": "Hoyo de Manzanares",
+    "nameDisplay": "Hoyo de Manzanares",
+    "nameAscii": "Hoyo de Manzanares",
+    "slug": "hoyo-de-manzanares",
+    "areaKm2": 45.2185,
+    "centroid": {
+      "lat": 40.615898,
+      "lng": -3.893289
+    },
+    "labelPoint": {
+      "lat": 40.619529,
+      "lng": -3.896898
+    },
+    "bbox": [
+      -3.953065,
+      40.58527,
+      -3.842438,
+      40.652503
+    ]
+  },
+  "28073": {
+    "geoUnitId": "28073",
+    "datasetId": "community_municipalities",
+    "code": "28073",
+    "nameOfficial": "Humanes de Madrid",
+    "nameDisplay": "Humanes de Madrid",
+    "nameAscii": "Humanes de Madrid",
+    "slug": "humanes-de-madrid",
+    "areaKm2": 19.6705,
+    "centroid": {
+      "lat": 40.251504,
+      "lng": -3.826103
+    },
+    "labelPoint": {
+      "lat": 40.252198,
+      "lng": -3.827047
+    },
+    "bbox": [
+      -3.853748,
+      40.227087,
+      -3.796187,
+      40.277442
+    ]
+  },
+  "28074": {
+    "geoUnitId": "28074",
+    "datasetId": "community_municipalities",
+    "code": "28074",
+    "nameOfficial": "Leganés",
+    "nameDisplay": "Leganés",
+    "nameAscii": "Leganes",
+    "slug": "leganes",
+    "areaKm2": 43.2331,
+    "centroid": {
+      "lat": 40.330706,
+      "lng": -3.771493
+    },
+    "labelPoint": {
+      "lat": 40.329064,
+      "lng": -3.77687
+    },
+    "bbox": [
+      -3.81844,
+      40.292535,
+      -3.720891,
+      40.365548
+    ]
+  },
+  "28075": {
+    "geoUnitId": "28075",
+    "datasetId": "community_municipalities",
+    "code": "28075",
+    "nameOfficial": "Loeches",
+    "nameDisplay": "Loeches",
+    "nameAscii": "Loeches",
+    "slug": "loeches",
+    "areaKm2": 44.319,
+    "centroid": {
+      "lat": 40.382412,
+      "lng": -3.41769
+    },
+    "labelPoint": {
+      "lat": 40.387798,
+      "lng": -3.423117
+    },
+    "bbox": [
+      -3.465822,
+      40.343132,
+      -3.35255,
+      40.432338
+    ]
+  },
+  "28076": {
+    "geoUnitId": "28076",
+    "datasetId": "community_municipalities",
+    "code": "28076",
+    "nameOfficial": "Lozoya",
+    "nameDisplay": "Lozoya",
+    "nameAscii": "Lozoya",
+    "slug": "lozoya",
+    "areaKm2": 57.6936,
+    "centroid": {
+      "lat": 40.962056,
+      "lng": -3.784278
+    },
+    "labelPoint": {
+      "lat": 40.962619,
+      "lng": -3.784899
+    },
+    "bbox": [
+      -3.844507,
+      40.913274,
+      -3.735306,
+      41.01228
+    ]
+  },
+  "28078": {
+    "geoUnitId": "28078",
+    "datasetId": "community_municipalities",
+    "code": "28078",
+    "nameOfficial": "Madarcos",
+    "nameDisplay": "Madarcos",
+    "nameAscii": "Madarcos",
+    "slug": "madarcos",
+    "areaKm2": 8.5492,
+    "centroid": {
+      "lat": 41.041396,
+      "lng": -3.572221
+    },
+    "labelPoint": {
+      "lat": 41.040283,
+      "lng": -3.571926
+    },
+    "bbox": [
+      -3.588656,
+      41.0213,
+      -3.554714,
+      41.059497
+    ]
+  },
+  "28079": {
+    "geoUnitId": "28079",
+    "datasetId": "community_municipalities",
+    "code": "28079",
+    "nameOfficial": "Madrid",
+    "nameDisplay": "Madrid",
+    "nameAscii": "Madrid",
+    "slug": "madrid",
+    "areaKm2": 604.0148,
+    "centroid": {
+      "lat": 40.465525,
+      "lng": -3.696562
+    },
+    "labelPoint": {
+      "lat": 40.477614,
+      "lng": -3.685854
+    },
+    "bbox": [
+      -3.888963,
+      40.312065,
+      -3.518126,
+      40.64328
+    ]
+  },
+  "28080": {
+    "geoUnitId": "28080",
+    "datasetId": "community_municipalities",
+    "code": "28080",
+    "nameOfficial": "Majadahonda",
+    "nameDisplay": "Majadahonda",
+    "nameAscii": "Majadahonda",
+    "slug": "majadahonda",
+    "areaKm2": 38.4676,
+    "centroid": {
+      "lat": 40.468765,
+      "lng": -3.895134
+    },
+    "labelPoint": {
+      "lat": 40.471754,
+      "lng": -3.887876
+    },
+    "bbox": [
+      -3.944893,
+      40.441875,
+      -3.834353,
+      40.501627
+    ]
+  },
+  "28082": {
+    "geoUnitId": "28082",
+    "datasetId": "community_municipalities",
+    "code": "28082",
+    "nameOfficial": "Manzanares el Real",
+    "nameDisplay": "Manzanares el Real",
+    "nameAscii": "Manzanares el Real",
+    "slug": "manzanares-el-real",
+    "areaKm2": 126.8322,
+    "centroid": {
+      "lat": 40.75044,
+      "lng": -3.877958
+    },
+    "labelPoint": {
+      "lat": 40.74773,
+      "lng": -3.873734
+    },
+    "bbox": [
+      -3.979676,
+      40.67922,
+      -3.800586,
+      40.815007
+    ]
+  },
+  "28083": {
+    "geoUnitId": "28083",
+    "datasetId": "community_municipalities",
+    "code": "28083",
+    "nameOfficial": "Meco",
+    "nameDisplay": "Meco",
+    "nameAscii": "Meco",
+    "slug": "meco",
+    "areaKm2": 34.9287,
+    "centroid": {
+      "lat": 40.557079,
+      "lng": -3.323067
+    },
+    "labelPoint": {
+      "lat": 40.561032,
+      "lng": -3.323682
+    },
+    "bbox": [
+      -3.363494,
+      40.52128,
+      -3.283095,
+      40.600921
+    ]
+  },
+  "28084": {
+    "geoUnitId": "28084",
+    "datasetId": "community_municipalities",
+    "code": "28084",
+    "nameOfficial": "Mejorada del Campo",
+    "nameDisplay": "Mejorada del Campo",
+    "nameAscii": "Mejorada del Campo",
+    "slug": "mejorada-del-campo",
+    "areaKm2": 17.935,
+    "centroid": {
+      "lat": 40.400223,
+      "lng": -3.475094
+    },
+    "labelPoint": {
+      "lat": 40.399875,
+      "lng": -3.476763
+    },
+    "bbox": [
+      -3.509212,
+      40.377966,
+      -3.439931,
+      40.421644
+    ]
+  },
+  "28085": {
+    "geoUnitId": "28085",
+    "datasetId": "community_municipalities",
+    "code": "28085",
+    "nameOfficial": "Miraflores de la Sierra",
+    "nameDisplay": "Miraflores de la Sierra",
+    "nameAscii": "Miraflores de la Sierra",
+    "slug": "miraflores-de-la-sierra",
+    "areaKm2": 56.4118,
+    "centroid": {
+      "lat": 40.797081,
+      "lng": -3.777545
+    },
+    "labelPoint": {
+      "lat": 40.788634,
+      "lng": -3.773264
+    },
+    "bbox": [
+      -3.830229,
+      40.728522,
+      -3.71037,
+      40.849004
+    ]
+  },
+  "28086": {
+    "geoUnitId": "28086",
+    "datasetId": "community_municipalities",
+    "code": "28086",
+    "nameOfficial": "El Molar",
+    "nameDisplay": "El Molar",
+    "nameAscii": "El Molar",
+    "slug": "el-molar",
+    "areaKm2": 50.1742,
+    "centroid": {
+      "lat": 40.700563,
+      "lng": -3.571235
+    },
+    "labelPoint": {
+      "lat": 40.697036,
+      "lng": -3.572774
+    },
+    "bbox": [
+      -3.607973,
+      40.643598,
+      -3.525284,
+      40.750557
+    ]
+  },
+  "28087": {
+    "geoUnitId": "28087",
+    "datasetId": "community_municipalities",
+    "code": "28087",
+    "nameOfficial": "Los Molinos",
+    "nameDisplay": "Los Molinos",
+    "nameAscii": "Los Molinos",
+    "slug": "los-molinos",
+    "areaKm2": 19.1665,
+    "centroid": {
+      "lat": 40.720902,
+      "lng": -4.093167
+    },
+    "labelPoint": {
+      "lat": 40.723257,
+      "lng": -4.095924
+    },
+    "bbox": [
+      -4.125814,
+      40.69848,
+      -4.050438,
+      40.747739
+    ]
+  },
+  "28088": {
+    "geoUnitId": "28088",
+    "datasetId": "community_municipalities",
+    "code": "28088",
+    "nameOfficial": "Montejo de la Sierra",
+    "nameDisplay": "Montejo de la Sierra",
+    "nameAscii": "Montejo de la Sierra",
+    "slug": "montejo-de-la-sierra",
+    "areaKm2": 32.1862,
+    "centroid": {
+      "lat": 41.091939,
+      "lng": -3.511403
+    },
+    "labelPoint": {
+      "lat": 41.099418,
+      "lng": -3.507145
+    },
+    "bbox": [
+      -3.547932,
+      41.049222,
+      -3.475154,
+      41.149667
+    ]
+  },
+  "28089": {
+    "geoUnitId": "28089",
+    "datasetId": "community_municipalities",
+    "code": "28089",
+    "nameOfficial": "Moraleja de Enmedio",
+    "nameDisplay": "Moraleja de Enmedio",
+    "nameAscii": "Moraleja de Enmedio",
+    "slug": "moraleja-de-enmedio",
+    "areaKm2": 31.1876,
+    "centroid": {
+      "lat": 40.257879,
+      "lng": -3.879702
+    },
+    "labelPoint": {
+      "lat": 40.257584,
+      "lng": -3.879857
+    },
+    "bbox": [
+      -3.943386,
+      40.225744,
+      -3.838667,
+      40.289353
+    ]
+  },
+  "28090": {
+    "geoUnitId": "28090",
+    "datasetId": "community_municipalities",
+    "code": "28090",
+    "nameOfficial": "Moralzarzal",
+    "nameDisplay": "Moralzarzal",
+    "nameAscii": "Moralzarzal",
+    "slug": "moralzarzal",
+    "areaKm2": 43.5216,
+    "centroid": {
+      "lat": 40.664671,
+      "lng": -3.94707
+    },
+    "labelPoint": {
+      "lat": 40.657612,
+      "lng": -3.889559
+    },
+    "bbox": [
+      -3.997497,
+      40.597438,
+      -3.873821,
+      40.717759
+    ]
+  },
+  "28091": {
+    "geoUnitId": "28091",
+    "datasetId": "community_municipalities",
+    "code": "28091",
+    "nameOfficial": "Morata de Tajuña",
+    "nameDisplay": "Morata de Tajuña",
+    "nameAscii": "Morata de Tajuna",
+    "slug": "morata-de-tajuna",
+    "areaKm2": 45.2878,
+    "centroid": {
+      "lat": 40.231158,
+      "lng": -3.447977
+    },
+    "labelPoint": {
+      "lat": 40.22738,
+      "lng": -3.448517
+    },
+    "bbox": [
+      -3.505849,
+      40.196935,
+      -3.394509,
+      40.258297
+    ]
+  },
+  "28092": {
+    "geoUnitId": "28092",
+    "datasetId": "community_municipalities",
+    "code": "28092",
+    "nameOfficial": "Móstoles",
+    "nameDisplay": "Móstoles",
+    "nameAscii": "Mostoles",
+    "slug": "mostoles",
+    "areaKm2": 44.864,
+    "centroid": {
+      "lat": 40.318803,
+      "lng": -3.890352
+    },
+    "labelPoint": {
+      "lat": 40.319915,
+      "lng": -3.893548
+    },
+    "bbox": [
+      -3.94537,
+      40.285782,
+      -3.841046,
+      40.354024
+    ]
+  },
+  "28093": {
+    "geoUnitId": "28093",
+    "datasetId": "community_municipalities",
+    "code": "28093",
+    "nameOfficial": "Navacerrada",
+    "nameDisplay": "Navacerrada",
+    "nameAscii": "Navacerrada",
+    "slug": "navacerrada",
+    "areaKm2": 27.5173,
+    "centroid": {
+      "lat": 40.749042,
+      "lng": -4.005282
+    },
+    "labelPoint": {
+      "lat": 40.749635,
+      "lng": -4.007053
+    },
+    "bbox": [
+      -4.042219,
+      40.710528,
+      -3.968603,
+      40.788649
+    ]
+  },
+  "28094": {
+    "geoUnitId": "28094",
+    "datasetId": "community_municipalities",
+    "code": "28094",
+    "nameOfficial": "Navalafuente",
+    "nameDisplay": "Navalafuente",
+    "nameAscii": "Navalafuente",
+    "slug": "navalafuente",
+    "areaKm2": 12.1762,
+    "centroid": {
+      "lat": 40.817194,
+      "lng": -3.676958
+    },
+    "labelPoint": {
+      "lat": 40.81645,
+      "lng": -3.678032
+    },
+    "bbox": [
+      -3.701836,
+      40.799809,
+      -3.651322,
+      40.83351
+    ]
+  },
+  "28095": {
+    "geoUnitId": "28095",
+    "datasetId": "community_municipalities",
+    "code": "28095",
+    "nameOfficial": "Navalagamella",
+    "nameDisplay": "Navalagamella",
+    "nameAscii": "Navalagamella",
+    "slug": "navalagamella",
+    "areaKm2": 75.7339,
+    "centroid": {
+      "lat": 40.44013,
+      "lng": -4.129972
+    },
+    "labelPoint": {
+      "lat": 40.442348,
+      "lng": -4.125316
+    },
+    "bbox": [
+      -4.17727,
+      40.364539,
+      -4.071008,
+      40.522424
+    ]
+  },
+  "28096": {
+    "geoUnitId": "28096",
+    "datasetId": "community_municipalities",
+    "code": "28096",
+    "nameOfficial": "Navalcarnero",
+    "nameDisplay": "Navalcarnero",
+    "nameAscii": "Navalcarnero",
+    "slug": "navalcarnero",
+    "areaKm2": 100.8432,
+    "centroid": {
+      "lat": 40.288696,
+      "lng": -4.014152
+    },
+    "labelPoint": {
+      "lat": 40.28227,
+      "lng": -4.015007
+    },
+    "bbox": [
+      -4.087907,
+      40.224598,
+      -3.936934,
+      40.339388
+    ]
+  },
+  "28097": {
+    "geoUnitId": "28097",
+    "datasetId": "community_municipalities",
+    "code": "28097",
+    "nameOfficial": "Navarredonda y San Mamés",
+    "nameDisplay": "Navarredonda y San Mamés",
+    "nameAscii": "Navarredonda y San Mames",
+    "slug": "navarredonda-y-san-mames",
+    "areaKm2": 28.4734,
+    "centroid": {
+      "lat": 41.005527,
+      "lng": -3.729118
+    },
+    "labelPoint": {
+      "lat": 41.005528,
+      "lng": -3.727388
+    },
+    "bbox": [
+      -3.771082,
+      40.974979,
+      -3.679324,
+      41.036133
+    ]
+  },
+  "28099": {
+    "geoUnitId": "28099",
+    "datasetId": "community_municipalities",
+    "code": "28099",
+    "nameOfficial": "Navas del Rey",
+    "nameDisplay": "Navas del Rey",
+    "nameAscii": "Navas del Rey",
+    "slug": "navas-del-rey",
+    "areaKm2": 50.5216,
+    "centroid": {
+      "lat": 40.38313,
+      "lng": -4.271033
+    },
+    "labelPoint": {
+      "lat": 40.377402,
+      "lng": -4.265217
+    },
+    "bbox": [
+      -4.326845,
+      40.326489,
+      -4.227559,
+      40.428224
+    ]
+  },
+  "28100": {
+    "geoUnitId": "28100",
+    "datasetId": "community_municipalities",
+    "code": "28100",
+    "nameOfficial": "Nuevo Baztán",
+    "nameDisplay": "Nuevo Baztán",
+    "nameAscii": "Nuevo Baztan",
+    "slug": "nuevo-baztan",
+    "areaKm2": 20.1039,
+    "centroid": {
+      "lat": 40.375043,
+      "lng": -3.25334
+    },
+    "labelPoint": {
+      "lat": 40.374621,
+      "lng": -3.255024
+    },
+    "bbox": [
+      -3.279918,
+      40.346183,
+      -3.219319,
+      40.403049
+    ]
+  },
+  "28109": {
+    "geoUnitId": "28109",
+    "datasetId": "community_municipalities",
+    "code": "28109",
+    "nameOfficial": "Pelayos de la Presa",
+    "nameDisplay": "Pelayos de la Presa",
+    "nameAscii": "Pelayos de la Presa",
+    "slug": "pelayos-de-la-presa",
+    "areaKm2": 7.5656,
+    "centroid": {
+      "lat": 40.359912,
+      "lng": -4.327977
+    },
+    "labelPoint": {
+      "lat": 40.359947,
+      "lng": -4.328629
+    },
+    "bbox": [
+      -4.34707,
+      40.343802,
+      -4.304658,
+      40.376127
+    ]
+  },
+  "28101": {
+    "geoUnitId": "28101",
+    "datasetId": "community_municipalities",
+    "code": "28101",
+    "nameOfficial": "Olmeda de las Fuentes",
+    "nameDisplay": "Olmeda de las Fuentes",
+    "nameAscii": "Olmeda de las Fuentes",
+    "slug": "olmeda-de-las-fuentes",
+    "areaKm2": 16.5238,
+    "centroid": {
+      "lat": 40.368616,
+      "lng": -3.206067
+    },
+    "labelPoint": {
+      "lat": 40.367646,
+      "lng": -3.203297
+    },
+    "bbox": [
+      -3.234219,
+      40.344023,
+      -3.175552,
+      40.391297
+    ]
+  },
+  "28102": {
+    "geoUnitId": "28102",
+    "datasetId": "community_municipalities",
+    "code": "28102",
+    "nameOfficial": "Orusco de Tajuña",
+    "nameDisplay": "Orusco de Tajuña",
+    "nameAscii": "Orusco de Tajuna",
+    "slug": "orusco-de-tajuna",
+    "areaKm2": 21.3615,
+    "centroid": {
+      "lat": 40.289951,
+      "lng": -3.210677
+    },
+    "labelPoint": {
+      "lat": 40.285972,
+      "lng": -3.206604
+    },
+    "bbox": [
+      -3.252134,
+      40.257547,
+      -3.180209,
+      40.314613
+    ]
+  },
+  "28104": {
+    "geoUnitId": "28104",
+    "datasetId": "community_municipalities",
+    "code": "28104",
+    "nameOfficial": "Paracuellos de Jarama",
+    "nameDisplay": "Paracuellos de Jarama",
+    "nameAscii": "Paracuellos de Jarama",
+    "slug": "paracuellos-de-jarama",
+    "areaKm2": 43.7754,
+    "centroid": {
+      "lat": 40.514341,
+      "lng": -3.52465
+    },
+    "labelPoint": {
+      "lat": 40.522108,
+      "lng": -3.525956
+    },
+    "bbox": [
+      -3.566043,
+      40.468736,
+      -3.476468,
+      40.57548
+    ]
+  },
+  "28106": {
+    "geoUnitId": "28106",
+    "datasetId": "community_municipalities",
+    "code": "28106",
+    "nameOfficial": "Parla",
+    "nameDisplay": "Parla",
+    "nameAscii": "Parla",
+    "slug": "parla",
+    "areaKm2": 24.9738,
+    "centroid": {
+      "lat": 40.230659,
+      "lng": -3.766948
+    },
+    "labelPoint": {
+      "lat": 40.228352,
+      "lng": -3.773059
+    },
+    "bbox": [
+      -3.807606,
+      40.200916,
+      -3.733446,
+      40.255735
+    ]
+  },
+  "28107": {
+    "geoUnitId": "28107",
+    "datasetId": "community_municipalities",
+    "code": "28107",
+    "nameOfficial": "Patones",
+    "nameDisplay": "Patones",
+    "nameAscii": "Patones",
+    "slug": "patones",
+    "areaKm2": 35.06,
+    "centroid": {
+      "lat": 40.882743,
+      "lng": -3.484794
+    },
+    "labelPoint": {
+      "lat": 40.882437,
+      "lng": -3.481009
+    },
+    "bbox": [
+      -3.525145,
+      40.846241,
+      -3.439543,
+      40.9186
+    ]
+  },
+  "28108": {
+    "geoUnitId": "28108",
+    "datasetId": "community_municipalities",
+    "code": "28108",
+    "nameOfficial": "Pedrezuela",
+    "nameDisplay": "Pedrezuela",
+    "nameAscii": "Pedrezuela",
+    "slug": "pedrezuela",
+    "areaKm2": 28.5275,
+    "centroid": {
+      "lat": 40.741907,
+      "lng": -3.624963
+    },
+    "labelPoint": {
+      "lat": 40.743216,
+      "lng": -3.624924
+    },
+    "bbox": [
+      -3.677055,
+      40.707309,
+      -3.591104,
+      40.779662
+    ]
+  },
+  "28110": {
+    "geoUnitId": "28110",
+    "datasetId": "community_municipalities",
+    "code": "28110",
+    "nameOfficial": "Perales de Tajuña",
+    "nameDisplay": "Perales de Tajuña",
+    "nameAscii": "Perales de Tajuna",
+    "slug": "perales-de-tajuna",
+    "areaKm2": 49.2778,
+    "centroid": {
+      "lat": 40.226417,
+      "lng": -3.352758
+    },
+    "labelPoint": {
+      "lat": 40.225968,
+      "lng": -3.35834
+    },
+    "bbox": [
+      -3.423262,
+      40.177984,
+      -3.29798,
+      40.273796
+    ]
+  },
+  "28111": {
+    "geoUnitId": "28111",
+    "datasetId": "community_municipalities",
+    "code": "28111",
+    "nameOfficial": "Pezuela de las Torres",
+    "nameDisplay": "Pezuela de las Torres",
+    "nameAscii": "Pezuela de las Torres",
+    "slug": "pezuela-de-las-torres",
+    "areaKm2": 41.6745,
+    "centroid": {
+      "lat": 40.407464,
+      "lng": -3.178089
+    },
+    "labelPoint": {
+      "lat": 40.407258,
+      "lng": -3.175778
+    },
+    "bbox": [
+      -3.229238,
+      40.373109,
+      -3.130558,
+      40.442252
+    ]
+  }
+}
