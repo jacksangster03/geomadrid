@@ -2,7 +2,7 @@
 
 A multi-layer geography platform for the Community of Madrid. Interactive quiz game and civic intelligence atlas, both powered by official administrative polygon data.
 
-**Live:** coming soon · **Status:** Phase 1 — scaffold + map shell
+**Live:** no deployment linked · **Status:** Phase 2 (quiz engine) implemented; Explore atlas is an early page, not yet a full atlas
 
 ---
 
@@ -37,13 +37,14 @@ The polygon layer is authoritative. The basemap is decorative.
 
 | Layer | Choice |
 |-------|--------|
-| Framework | Next.js 15 (App Router) |
+| Framework | Next.js 16 (App Router) |
 | Language | TypeScript |
 | Map | MapLibre GL JS |
 | Styling | Tailwind CSS |
 | State | Zustand |
 | Data pipeline | Python (geopandas, shapely) |
-| Hosting | Vercel |
+| Tests | Vitest |
+| Hosting | Vercel (planned) |
 
 ---
 
@@ -111,11 +112,20 @@ The pipeline will:
 
 ### Run the app
 
+The boundary GeoJSON is gitignored, so run the data pipeline above first.
+
 ```bash
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
+
+### Tests
+
+```bash
+npm test        # Vitest: quiz reducer and scoring (19 tests)
+npx tsc --noEmit
+```
 
 ---
 
@@ -128,12 +138,12 @@ GeoMadrid/
 │   └── pipeline/         # Python data pipeline
 ├── public/
 │   └── data/community/   # Processed boundary + attribute files
-├── src/
-│   ├── app/              # Next.js App Router pages
-│   ├── components/       # Map, quiz, explore, UI components
-│   ├── config/           # Difficulty, atlas layer, classification configs
-│   ├── lib/              # Data loading, scoring, quiz reducer, atlas utils
-│   └── types/            # Shared TypeScript types
+├── app/                  # Next.js App Router pages (play, explore)
+├── components/           # Map and quiz components
+├── config/               # Difficulty, atlas layer, classification configs
+├── lib/                  # Data loading, scoring, quiz reducer, atlas utils
+├── tests/                # Vitest unit tests
+├── types/                # Shared TypeScript types
 └── GEOMADRID.md          # Full architecture and build plan
 ```
 
@@ -143,9 +153,9 @@ GeoMadrid/
 
 | Phase | Description | Status |
 |-------|-------------|--------|
-| 0 | Data pipeline: official boundaries, 179 municipalities | Scaffold |
-| 1 | Next.js scaffold, map shell, difficulty config | In progress |
-| 2 | Quiz engine: all three difficulty modes | Planned |
+| 0 | Data pipeline: official boundaries, 179 municipalities | Implemented (IGN WFS download and build scripts) |
+| 1 | Next.js scaffold, map shell, difficulty config | Implemented |
+| 2 | Quiz engine: all three difficulty modes | Implemented (reducer, scoring, target selection, progress storage) |
 | 3 | Explore atlas shell: V1 layers, profile panel | Planned |
 | 4 | Classification engine | Planned |
 | 5 | Polish + V1 ship | Planned |
