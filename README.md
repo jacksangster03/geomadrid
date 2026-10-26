@@ -2,7 +2,7 @@
 
 A multi-layer geography platform for the Community of Madrid. Interactive quiz game and civic intelligence atlas, both powered by official administrative polygon data.
 
-**Live:** not deployed · **Status:** Phase 2 (quiz engine) implemented; Explore atlas is an early page, not yet a full atlas
+**Live:** no deployment linked · **Status:** Phase 2 (quiz engine) implemented; Explore atlas is an early page, not yet a full atlas
 
 ---
 
